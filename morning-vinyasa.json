@@ -11,7 +11,7 @@
         {
           "name": "Warmup",
           "poses": [
-            { "name": "Child's Pose", "durationSeconds": 30 },
+            { "name": "Child's Pose", "durationSeconds": 60 },
             { "name": "Cat-Cow", "durationSeconds": 45 },
             { "name": "Downward Dog", "durationSeconds": 30 }
           ]
