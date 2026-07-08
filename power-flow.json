@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "sample-3",
+      "name": "Power Flow",
+      "type": "Power",
+      "isFavorite": false,
+      "tags": ["Sweaty", "Strength"],
+      "sections": [
+        {
+          "name": "Warmup",
+          "poses": [
+            { "name": "Child's Pose", "durationSeconds": 20 },
+            { "name": "Downward Dog", "durationSeconds": 20 },
+            { "name": "Forward Fold", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Core Activation",
+          "poses": [
+            { "name": "Plank", "durationSeconds": 30 },
+            { "name": "Side Plank", "durationSeconds": 20 },
+            { "name": "Side Plank — Left", "durationSeconds": 20 },
+            { "name": "Boat Pose", "durationSeconds": 30 },
+            { "name": "Low Boat", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Standing Flow",
+          "poses": [
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Warrior I", "durationSeconds": 25 },
+            { "name": "Warrior III", "durationSeconds": 20 },
+            { "name": "Crescent Lunge", "durationSeconds": 25 },
+            { "name": "Crescent Lunge — Left", "durationSeconds": 25 },
+            { "name": "Eagle Pose", "durationSeconds": 20 },
+            { "name": "Eagle Pose — Left", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "poses": [
+            { "name": "Pigeon", "durationSeconds": 45 },
+            { "name": "Pigeon — Left", "durationSeconds": 45 },
+            { "name": "Savasana", "durationSeconds": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "sample-1",
+      "name": "Morning Vinyasa",
+      "type": "Vinyasa",
+      "isFavorite": true,
+      "tags": ["Energizing", "Morning"],
+      "sections": [
+        {
+          "name": "Warmup",
+          "poses": [
+            { "name": "Child's Pose", "durationSeconds": 30 },
+            { "name": "Cat-Cow", "durationSeconds": 45 },
+            { "name": "Downward Dog", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Sun Salutations",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 15 },
+            { "name": "Forward Fold", "durationSeconds": 20 },
+            { "name": "Half Lift", "durationSeconds": 10 },
+            { "name": "Plank", "durationSeconds": 20 },
+            { "name": "Chaturanga", "durationSeconds": 10 },
+            { "name": "Upward Dog", "durationSeconds": 15 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Warrior I", "durationSeconds": 25 },
+            { "name": "Warrior I — Left", "durationSeconds": 25 }
+          ]
+        },
+        {
+          "name": "Standing Flow",
+          "poses": [
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Reverse Warrior", "durationSeconds": 20 },
+            { "name": "Triangle", "durationSeconds": 30 },
+            { "name": "Triangle — Left", "durationSeconds": 30 },
+            { "name": "Tree Pose", "durationSeconds": 30, "holdAtEnd": true },
+            { "name": "Tree Pose — Left", "durationSeconds": 30, "holdAtEnd": true }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "poses": [
+            { "name": "Pigeon", "durationSeconds": 60 },
+            { "name": "Pigeon — Left", "durationSeconds": 60 },
+            { "name": "Supine Twist", "durationSeconds": 30 },
+            { "name": "Supine Twist — Left", "durationSeconds": 30 },
+            { "name": "Savasana", "durationSeconds": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

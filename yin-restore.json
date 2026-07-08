@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "sample-2",
+      "name": "Yin Restore",
+      "type": "Yin",
+      "isFavorite": true,
+      "tags": ["Relaxing", "Evening"],
+      "sections": [
+        {
+          "name": "Opening",
+          "poses": [
+            { "name": "Constructive Rest", "durationSeconds": 60 },
+            { "name": "Supine Twist", "durationSeconds": 90 },
+            { "name": "Supine Twist — Left", "durationSeconds": 90 }
+          ]
+        },
+        {
+          "name": "Hip Openers",
+          "poses": [
+            { "name": "Butterfly", "durationSeconds": 180 },
+            { "name": "Sleeping Swan", "durationSeconds": 180 },
+            { "name": "Sleeping Swan — Left", "durationSeconds": 180 },
+            { "name": "Dragon", "durationSeconds": 120 },
+            { "name": "Dragon — Left", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Spine",
+          "poses": [
+            { "name": "Caterpillar", "durationSeconds": 180 },
+            { "name": "Melting Heart", "durationSeconds": 120 },
+            { "name": "Banana Pose", "durationSeconds": 90 },
+            { "name": "Banana Pose — Left", "durationSeconds": 90 }
+          ]
+        },
+        {
+          "name": "Closing",
+          "poses": [
+            { "name": "Savasana", "durationSeconds": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}
