@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-rpzad",
+      "name": "Pada Bandha",
+      "type": "Hatha",
+      "isFavorite": false,
+      "tags": ["Feet", "Alignment"],
+      "sections": [
+        {
+          "name": "Intention & Breath",
+          "poses": [{ "name": "Easy Pose (Block)", "durationSeconds": 420 }]
+        },
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Toe Squat", "durationSeconds": 90 },
+            { "name": "Hero Pose (Block)", "durationSeconds": 90 },
+            { "name": "Table Top", "durationSeconds": 30 },
+            { "name": "Cat-Cow", "durationSeconds": 90 },
+            { "name": "Thread the Needle", "durationSeconds": 45 },
+            { "name": "Balancing Table", "durationSeconds": 45 },
+            { "name": "Half Circle Pose", "durationSeconds": 30 },
+            { "name": "Rocket Cat Pose", "durationSeconds": 45 },
+            { "name": "Thread the Needle", "durationSeconds": 45 },
+            { "name": "Balancing Table", "durationSeconds": 45 },
+            { "name": "Half Circle Pose", "durationSeconds": 30 },
+            { "name": "Staff Pose", "durationSeconds": 10 },
+            { "name": "Toe Movement", "durationSeconds": 45 },
+            { "name": "Toe Spread/Compress", "durationSeconds": 40 },
+            { "name": "Table Top", "durationSeconds": 10 },
+            { "name": "Downward Dog (Heels to Side)", "durationSeconds": 45 },
+            { "name": "Standing Pelvic Circles", "durationSeconds": 30 },
+            { "name": "Swishy Arms", "durationSeconds": 30 },
+            { "name": "Mountain Pose", "durationSeconds": 30 },
+            { "name": "Foot Lock (Pada Bandha)", "durationSeconds": 60 },
+            { "name": "Four Toes Raised", "durationSeconds": 15 },
+            { "name": "Big Toes Raised", "durationSeconds": 15 },
+            { "name": "Toes Bending (R)", "durationSeconds": 20 },
+            { "name": "Toes Bending (L)", "durationSeconds": 20 },
+            { "name": "Mountain Pose", "durationSeconds": 60 },
+            { "name": "Mountain Pose on Tiptoes", "durationSeconds": 30 },
+            { "name": "Tiptoes–Heels Flow", "durationSeconds": 30 },
+            {
+              "name": "Forward Fold (Hands Under Feet)",
+              "durationSeconds": 15
+            },
+            { "name": "Mountain Pose", "durationSeconds": 10 },
+            { "name": "Sun Salutation", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Chair Flow",
+          "poses": [
+            { "name": "Chair Pose", "durationSeconds": 45 },
+            { "name": "Chair Pose (Airplane Arms)", "durationSeconds": 10 },
+            { "name": "Diver Pose", "durationSeconds": 25 },
+            { "name": "Forward Fold", "durationSeconds": 15 },
+            { "name": "Half Lift", "durationSeconds": 10 },
+            { "name": "Chair Pose (Airplane Arms)", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 45 },
+            { "name": "Chair Pose (Airplane Arms)", "durationSeconds": 10 },
+            { "name": "Diver Pose", "durationSeconds": 25 },
+            { "name": "Forward Fold", "durationSeconds": 15 },
+            { "name": "Half Lift", "durationSeconds": 10 },
+            { "name": "Chair Pose (Airplane Arms)", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            {
+              "name": "Chair Pose on Tiptoes (Prayer Hands)",
+              "durationSeconds": 15
+            },
+            { "name": "Forward Fold", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Tree Sequence",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 20 },
+            { "name": "Little Tree", "durationSeconds": 20 },
+            { "name": "Tree Pose", "durationSeconds": 40 },
+            { "name": "Standing Hand to Knee", "durationSeconds": 20 },
+            { "name": "Standing Hand to Big Toe", "durationSeconds": 20 },
+            { "name": "Little Tree", "durationSeconds": 20 },
+            { "name": "Tree Pose", "durationSeconds": 20 },
+            { "name": "Standing Hand to Knee", "durationSeconds": 40 },
+            { "name": "Standing Hand to Big Toe", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Wide-Legged Sequence",
+          "poses": [
+            { "name": "Wide-Legged Forward Fold", "durationSeconds": 30 },
+            {
+              "name": "Revolved Wide-Legged Forward Fold",
+              "durationSeconds": 30
+            },
+            { "name": "Side Lunge (Skandasana)", "durationSeconds": 30 },
+            { "name": "Wide-Legged Forward Fold", "durationSeconds": 30 },
+            {
+              "name": "Revolved Wide-Legged Forward Fold",
+              "durationSeconds": 30
+            },
+            { "name": "Side Lunge (Skandasana)", "durationSeconds": 30 },
+            { "name": "Goddess Pose (Prayer, Tiptoes)", "durationSeconds": 30 },
+            { "name": "Garland Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Supine",
+          "poses": [
+            { "name": "Staff Pose", "durationSeconds": 10 },
+            { "name": "Seated Forward Bend", "durationSeconds": 45 },
+            { "name": "Marichi's Pose C (R)", "durationSeconds": 45 },
+            { "name": "Marichi's Pose C (L)", "durationSeconds": 45 },
+            { "name": "Reclined Knee Rotation", "durationSeconds": 30 },
+            { "name": "Reclined Figure-Four", "durationSeconds": 60 },
+            {
+              "name": "Revolved Reclined Big Toe (Strap)",
+              "durationSeconds": 60
+            },
+            { "name": "Reclined Knee Rotation", "durationSeconds": 30 },
+            { "name": "Reclined Figure-Four", "durationSeconds": 60 },
+            {
+              "name": "Revolved Reclined Big Toe (Strap)",
+              "durationSeconds": 60
+            },
+            { "name": "Waterfall", "durationSeconds": 120 },
+            { "name": "Plough Pose (Hands on Back)", "durationSeconds": 10 },
+            { "name": "Meditation", "durationSeconds": 15 },
+            { "name": "Corpse Pose (Savasana)", "durationSeconds": 420 }
+          ]
+        },
+        {
+          "name": "Meditation",
+          "poses": [
+            { "name": "Corpse Pose (Savasana)", "durationSeconds": 420 }
+          ]
+        }
+      ]
+    }
+  ]
+}
