@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-3sadl",
+      "name": "Vin Yin 7-14-26",
+      "type": "VinYin",
+      "isFavorite": false,
+      "tags": ["Dynamic", "Yin"],
+      "sections": [
+        {
+          "name": "Opening",
+          "poses": [
+            { "name": "Corpse Pose", "durationSeconds": 240 },
+            { "name": "Raised Legs (Knees Bent)", "durationSeconds": 30 },
+            { "name": "Bent Knee Toe Taps", "durationSeconds": 55 },
+            { "name": "Slow Scissors", "durationSeconds": 55 },
+            { "name": "Reclined Big Toe (R)", "durationSeconds": 45 },
+            { "name": "Reclined Big Toe (L)", "durationSeconds": 45 },
+            { "name": "Table Top", "durationSeconds": 10 },
+            { "name": "Cat-Cow", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 15 },
+            { "name": "Down Dog → Plank Flow", "durationSeconds": 20 },
+            { "name": "Prone", "durationSeconds": 10 },
+            { "name": "Cobra Flow", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "3-Legged Dog Right",
+          "poses": [
+            {
+              "name": "Knee to Opposite Elbow Flow",
+              "durationSeconds": 60
+            },
+            { "name": "Runner's Lunge", "durationSeconds": 10 },
+            { "name": "Warrior II", "durationSeconds": 15 },
+            { "name": "Reverse Warrior", "durationSeconds": 25 },
+            { "name": "Extended Side Angle", "durationSeconds": 15 },
+            { "name": "Easy Twist", "durationSeconds": 15 },
+            { "name": "Revolved Low Lunge", "durationSeconds": 25 },
+            { "name": "Tiger Crunches", "durationSeconds": 15 },
+            {
+              "name": "Bird-Dog",
+              "durationSeconds": 20
+            }
+          ]
+        },
+        {
+          "name": "3-Legged Dog Left",
+          "poses": [
+            { "name": "Vinyasa Flow", "durationSeconds": 20 },
+            {
+              "name": "Knee to Opposite Elbow Flow",
+              "durationSeconds": 60
+            },
+            { "name": "Runner's Lunge", "durationSeconds": 10 },
+            { "name": "Warrior II", "durationSeconds": 15 },
+            { "name": "Reverse Warrior", "durationSeconds": 25 },
+            { "name": "Extended Side Angle", "durationSeconds": 15 },
+            { "name": "Easy Twist", "durationSeconds": 15 },
+            { "name": "Revolved Low Lunge", "durationSeconds": 25 },
+            { "name": "Tiger Crunches", "durationSeconds": 15 },
+            {
+              "name": "Bird-Dog",
+              "durationSeconds": 20
+            }
+          ]
+        },
+        {
+          "name": "Eagle Sequence (Right)",
+          "poses": [
+            { "name": "3-Legged Dog", "durationSeconds": 10 },
+            { "name": "3-Legged Dog Crunch", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 10 },
+            { "name": "High Lunge Cactus-Cow Flow", "durationSeconds": 40 },
+            { "name": "High Lunge (Eagle Arms)", "durationSeconds": 15 },
+            { "name": "Eagle Pose", "durationSeconds": 25 },
+            { "name": "Volcano Pose", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Eagle Sequence (Left)",
+          "poses": [
+            { "name": "3-Legged Dog", "durationSeconds": 10 },
+            { "name": "3-Legged Dog Crunch", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 10 },
+            { "name": "High Lunge Cactus-Cow Flow", "durationSeconds": 40 },
+            { "name": "High Lunge (Eagle Arms)", "durationSeconds": 15 },
+            { "name": "Eagle Pose", "durationSeconds": 25 },
+            { "name": "Volcano Pose", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Chair Sequence",
+          "poses": [
+            { "name": "Chair Pose (R)", "durationSeconds": 15 },
+            { "name": "Revolved Chair (R)", "durationSeconds": 25 },
+            { "name": "Revolved Side Angle (R)", "durationSeconds": 25 },
+            { "name": "Revolved Lunge (R)", "durationSeconds": 15 },
+            { "name": "Side Plank (R)", "durationSeconds": 20 },
+            { "name": "Vinyasa Flow (R)", "durationSeconds": 20 },
+            { "name": "Chair Pose (L)", "durationSeconds": 15 },
+            { "name": "Revolved Chair (L)", "durationSeconds": 25 },
+            { "name": "Revolved Side Angle (L)", "durationSeconds": 25 },
+            { "name": "Revolved Lunge (L)", "durationSeconds": 15 },
+            { "name": "Side Plank (L)", "durationSeconds": 20 },
+            { "name": "Vinyasa Flow (L)", "durationSeconds": 20 },
+            { "name": "Mountain Pose", "durationSeconds": 10 },
+            { "name": "Forward Fold", "durationSeconds": 30 },
+            { "name": "Warrior III (R)", "durationSeconds": 40 },
+            { "name": "Tree Pose (R)", "durationSeconds": 25 },
+            { "name": "Chair on Tiptoes (R)", "durationSeconds": 30 },
+            { "name": "Mountain Pose (R)", "durationSeconds": 10 },
+            { "name": "Warrior III (L)", "durationSeconds": 40 },
+            { "name": "Tree Pose (L)", "durationSeconds": 25 },
+            { "name": "Chair on Tiptoes (L)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Yin & Rest",
+          "poses": [
+            { "name": "Bound Angle", "durationSeconds": 150 },
+            { "name": "Bound Angle Right Side Bend", "durationSeconds": 150 },
+            { "name": "Bound Angle Left Side Bend", "durationSeconds": 150 },
+            { "name": "Butterfly Fold", "durationSeconds": 150 },
+            { "name": "Fish Pose (Blocks)", "durationSeconds": 150 },
+            { "name": "Reverse Pigeon", "durationSeconds": 150 },
+            { "name": "Supine Twist (Eagle Legs)", "durationSeconds": 150 },
+            { "name": "Reverse Pigeon (L)", "durationSeconds": 150 },
+            { "name": "Supine Twist (Eagle Legs) (L)", "durationSeconds": 150 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Side-Lying Rest", "durationSeconds": 60 },
+            { "name": "Easy Pose", "durationSeconds": 60 }
+          ]
+        }
+      ]
+    }
+  ]
+}
