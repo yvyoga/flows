@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-jcfqt",
+      "name": "Vin Yin 7-21-26",
+      "type": "VinYin",
+      "isFavorite": false,
+      "tags": ["Dynamic", "Yin"],
+      "sections": [
+        {
+          "name": "Grounding & Warm-Up",
+          "poses": [
+            { "name": "Corpse Pose", "durationSeconds": 180 },
+            { "name": "Dead Bug", "durationSeconds": 30 },
+            { "name": "Dead Bug Alt Legs", "durationSeconds": 90 },
+            { "name": "Bridge Pose", "durationSeconds": 30 },
+            { "name": "Wind Release", "durationSeconds": 30 },
+            { "name": "Easy Pose", "durationSeconds": 10 },
+            { "name": "Seated Torso Circles", "durationSeconds": 30 },
+            { "name": "Revolved Easy Pose (R)", "durationSeconds": 30 },
+            { "name": "Revolved Easy Pose (L)", "durationSeconds": 30 },
+            { "name": "Cat-Cow", "durationSeconds": 30 },
+            { "name": "Thread the Needle (R)", "durationSeconds": 30 },
+            { "name": "Thread the Needle (L)", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Sun Salutation",
+          "poses": [{ "name": "Sun Salutation B", "durationSeconds": 390 }]
+        },
+        {
+          "name": "Standing",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Wide-Legged Fold", "durationSeconds": 45 },
+            { "name": "Flowing Half Squat", "durationSeconds": 90 },
+            { "name": "Lizard Pose (R)", "durationSeconds": 45 },
+            { "name": "Pyramid (Blocks) (R)", "durationSeconds": 45 },
+            { "name": "Revolved Pyramid (R)", "durationSeconds": 45 },
+            { "name": "Warrior III (Blocks) (R)", "durationSeconds": 30 },
+            { "name": "Warrior III (R)", "durationSeconds": 30 },
+            { "name": "Half Moon (R)", "durationSeconds": 45 },
+            { "name": "Wide-Legged Fold (R)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Standing (Other Side)",
+          "poses": [
+            { "name": "Lizard Pose (L)", "durationSeconds": 45 },
+            { "name": "Pyramid (Blocks) (L)", "durationSeconds": 45 },
+            { "name": "Revolved Pyramid (L)", "durationSeconds": 45 },
+            { "name": "Warrior III (Blocks) (L)", "durationSeconds": 30 },
+            { "name": "Warrior III (L)", "durationSeconds": 30 },
+            { "name": "Half Moon (L)", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Balance Series (Right)",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 10 },
+            { "name": "Foot Strap", "durationSeconds": 10 },
+            { "name": "Tree Pose (R)", "durationSeconds": 45 },
+            { "name": "Standing Hand to Big Toe (R)", "durationSeconds": 30 },
+            { "name": "Standing Quad Stretch (R)", "durationSeconds": 30 },
+            { "name": "Flamingo Pose (R)", "durationSeconds": 20 },
+            { "name": "Dancer Pose (R)", "durationSeconds": 40 },
+            { "name": "Eagle (Arms Wide) (R)", "durationSeconds": 30 },
+            { "name": "Garland Pose", "durationSeconds": 15 },
+            { "name": "Foot Strap", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Balance Series (Left)",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 10 },
+            { "name": "Tree Pose (L)", "durationSeconds": 45 },
+            { "name": "Standing Hand to Big Toe (L)", "durationSeconds": 30 },
+            { "name": "Standing Quad Stretch (L)", "durationSeconds": 30 },
+            { "name": "Flamingo Pose (L)", "durationSeconds": 20 },
+            { "name": "Dancer Pose (L)", "durationSeconds": 40 },
+            { "name": "Eagle (Arms Wide) (L)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Standing Cool-Down",
+          "poses": [
+            { "name": "Chair Pose", "durationSeconds": 25 },
+            { "name": "Mountain Pose", "durationSeconds": 30 },
+            { "name": "Dangling Pose", "durationSeconds": 60 },
+            { "name": "Garland Pose", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Yin & Rest",
+          "poses": [
+            { "name": "Seated Cat-Cow", "durationSeconds": 90 },
+            { "name": "Seated Windshield Wiper", "durationSeconds": 45 },
+            { "name": "Reclining Deer Forward (R)", "durationSeconds": 180 },
+            { "name": "Reclining Deer Side (R)", "durationSeconds": 180 },
+            { "name": "Reclining Deer Forward (L)", "durationSeconds": 180 },
+            { "name": "Reclining Deer Side (L)", "durationSeconds": 180 },
+            { "name": "Wind Release", "durationSeconds": 30 },
+            { "name": "Waterfall (Block)", "durationSeconds": 120 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Fetal Pose", "durationSeconds": 45 },
+            { "name": "Salutation Seal", "durationSeconds": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}
