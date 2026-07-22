@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-6vorr",
+      "name": "CD's 7/23",
+      "type": "Strength",
+      "isFavorite": false,
+      "tags": ["Strength", "Bands"],
+      "sections": [
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Standing Cat-Cow", "durationSeconds": 40 },
+            { "name": "Side Lunge (Arm Sweeps)", "durationSeconds": 40 },
+            { "name": "Wide-Legged Mid Squat", "durationSeconds": 40 },
+            { "name": "Heel Raises (Chair)", "durationSeconds": 40 },
+            { "name": "Standing Quad Stretch", "durationSeconds": 30 },
+            { "name": "Half Chair", "durationSeconds": 20 },
+            { "name": "Standing Quad Stretch", "durationSeconds": 30 },
+            { "name": "Half Chair", "durationSeconds": 20 },
+            { "name": "Arm Across Chest (R)", "durationSeconds": 10 },
+            { "name": "Arm Across Chest (L)", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Standing",
+          "poses": [
+            { "name": "Bicep Curls (Band)", "durationSeconds": 90 },
+            { "name": "Chest Opener (Band)", "durationSeconds": 90 },
+            { "name": "Bent-Over Row (Band)", "durationSeconds": 90 },
+            { "name": "Tricep Pull-Back (Band)", "durationSeconds": 90 },
+            { "name": "Superman (R, Band)", "durationSeconds": 90 },
+            { "name": "Superman (L, Band)", "durationSeconds": 90 },
+            { "name": "Side-Tap Squat", "durationSeconds": 90 },
+            { "name": "Alternating Knee Lifts", "durationSeconds": 90 },
+            { "name": "Boxer Sway with Jabs", "durationSeconds": 90 },
+            { "name": "Goddess Squat (Heels Up/Down)", "durationSeconds": 90 },
+            { "name": "Pendulum Squat Kicks (Band)", "durationSeconds": 90 },
+            { "name": "Hot Pot (R, Band)", "durationSeconds": 90 },
+            { "name": "Hot Pot (L, Band)", "durationSeconds": 90 },
+            { "name": "Standing Clamshells (Band)", "durationSeconds": 90 },
+            { "name": "Knee Ups (Break Board)", "durationSeconds": 90 },
+            { "name": "Alternating Curtsey Lunge", "durationSeconds": 90 },
+            { "name": "Arm Pulses (Band)", "durationSeconds": 90 },
+            { "name": "Archer (R)", "durationSeconds": 90 },
+            { "name": "Archer (L)", "durationSeconds": 90 }
+          ]
+        },
+        {
+          "name": "Floor",
+          "poses": [
+            { "name": "Kneeling Kickback (R, Band)", "durationSeconds": 90 },
+            { "name": "Kneeling Kickback (L, Band)", "durationSeconds": 90 },
+            { "name": "Scissors (Band)", "durationSeconds": 90 },
+            { "name": "Double Leg Lowers", "durationSeconds": 90 },
+            { "name": "Hundreds (Band)", "durationSeconds": 90 },
+            { "name": "V-Sits (Band)", "durationSeconds": 90 },
+            { "name": "Seated Forward Bend", "durationSeconds": 10 },
+            { "name": "Bridge Pulses (Band)", "durationSeconds": 90 },
+            { "name": "Bridge Pulses (R Leg, Band)", "durationSeconds": 90 },
+            { "name": "Bridge Pulses (L Leg, Band)", "durationSeconds": 90 },
+            { "name": "Bicycle", "durationSeconds": 90 },
+            { "name": "Alternating Single Leg Drops", "durationSeconds": 90 },
+            { "name": "Side Plank Push-Ups", "durationSeconds": 90 }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "poses": [
+            { "name": "Overhead Stretch (Band)", "durationSeconds": 30 },
+            { "name": "Side Stretch (R, Band)", "durationSeconds": 90 },
+            { "name": "Side Stretch (L, Band)", "durationSeconds": 90 },
+            { "name": "Seated Forward Bend", "durationSeconds": 30 },
+            { "name": "Right Leg Out (Band)", "durationSeconds": 45 },
+            { "name": "Right Leg Cross (Band)", "durationSeconds": 45 },
+            { "name": "Left Leg Out (Band)", "durationSeconds": 45 },
+            { "name": "Left Leg Cross (Band)", "durationSeconds": 45 },
+            { "name": "Good Morning Stretch", "durationSeconds": 10 },
+            { "name": "Corpse Pose", "durationSeconds": 120 }
+          ]
+        }
+      ]
+    }
+  ]
+}
