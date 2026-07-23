@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-dnazg",
+      "name": "Hasta Bandha",
+      "type": "Hatha",
+      "isFavorite": false,
+      "tags": ["Hands", "Alignment"],
+      "sections": [
+        {
+          "name": "Opening",
+          "poses": [
+            { "name": "Hero Pose (Block)", "durationSeconds": 15 },
+            { "name": "Introduction", "durationSeconds": 120 },
+            { "name": "Directional Breathing", "durationSeconds": 60 },
+            { "name": "Belly Breathing", "durationSeconds": 60 },
+            { "name": "Kapalabhati Breath", "durationSeconds": 45 },
+            { "name": "Seated Neck Rolls", "durationSeconds": 45 },
+            { "name": "Seated Shoulder Rolls", "durationSeconds": 45 },
+            { "name": "Deltoid Stretch (R)", "durationSeconds": 25 },
+            { "name": "Deltoid Stretch (L)", "durationSeconds": 25 },
+            { "name": "Prayer Hands", "durationSeconds": 60 },
+            { "name": "Hand Lock (Hasta Bandha)", "durationSeconds": 180 },
+            { "name": "Zombie Stop & Drops", "durationSeconds": 60 },
+            { "name": "Finger Flicks", "durationSeconds": 60 },
+            { "name": "Seated Wrist Stretch", "durationSeconds": 45 },
+            { "name": "Table Top Wrist Stretch", "durationSeconds": 45 },
+            { "name": "Table Top", "durationSeconds": 45 },
+            { "name": "Cat-Cow", "durationSeconds": 90 },
+            { "name": "Table Leg-Raise Push-Up Flow", "durationSeconds": 60 },
+            { "name": "Plank", "durationSeconds": 60 },
+            { "name": "Child's Pose", "durationSeconds": 45 },
+            { "name": "Wrist Shakes", "durationSeconds": 15 },
+            { "name": "Table Top", "durationSeconds": 15 },
+            { "name": "Table Leg-Raise Push-Up Flow", "durationSeconds": 60 },
+            { "name": "Plank", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 150 }
+          ]
+        },
+        {
+          "name": "Sun Salutations",
+          "poses": [
+            { "name": "Mountain (Prayer)", "durationSeconds": 15 },
+            { "name": "Shoulder Stretch (Behind Back)", "durationSeconds": 25 },
+            { "name": "Standing Yoga Seal", "durationSeconds": 15 },
+            {
+              "name": "Revolved Forward Fold (Bent Knee)",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Revolved Forward Fold (Bent Knee)",
+              "durationSeconds": 15
+            },
+            { "name": "Forward Fold", "durationSeconds": 15 },
+            { "name": "Half Lift (Hands on Shins)", "durationSeconds": 15 },
+            { "name": "Plank", "durationSeconds": 30 },
+            { "name": "Chaturanga", "durationSeconds": 25 },
+            { "name": "Upward Dog", "durationSeconds": 25 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Mountain (Prayer)", "durationSeconds": 10 },
+            { "name": "Shoulder Stretch (Behind Back)", "durationSeconds": 15 },
+            { "name": "Standing Yoga Seal", "durationSeconds": 15 },
+            {
+              "name": "Revolved Forward Fold (Bent Knee)",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Revolved Forward Fold (Bent Knee)",
+              "durationSeconds": 15
+            },
+            { "name": "Forward Fold", "durationSeconds": 15 },
+            { "name": "Half Lift (Hands on Shins)", "durationSeconds": 15 },
+            { "name": "Plank", "durationSeconds": 30 },
+            { "name": "Chaturanga", "durationSeconds": 15 },
+            { "name": "Upward Dog", "durationSeconds": 25 },
+            { "name": "Downward Dog", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Series 1",
+          "poses": [
+            { "name": "Runner's Lunge", "durationSeconds": 45 },
+            { "name": "Warrior I", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Triangle", "durationSeconds": 45 },
+            { "name": "Five-Pointed Star", "durationSeconds": 20 },
+            { "name": "Wide-Legged Forward Fold", "durationSeconds": 15 },
+            { "name": "Five-Pointed Star", "durationSeconds": 15 },
+            { "name": "Triangle", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Warrior I", "durationSeconds": 45 },
+            { "name": "Runner's Lunge", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Series 2",
+          "poses": [
+            { "name": "Wide-Legged Forward Fold", "durationSeconds": 30 },
+            { "name": "Revolved Wide-Legged Fold", "durationSeconds": 30 },
+            {
+              "name": "Wide-Legged Fold (Side Stretch)",
+              "durationSeconds": 30
+            },
+            { "name": "Wide-Legged Forward Fold", "durationSeconds": 30 },
+            { "name": "Revolved Wide-Legged Fold", "durationSeconds": 30 },
+            {
+              "name": "Wide-Legged Fold (Side Stretch)",
+              "durationSeconds": 30
+            },
+            { "name": "Wide-Legged Fold (Dog Arms)", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Crow Prep",
+          "poses": [
+            { "name": "Garland Pose", "durationSeconds": 45 },
+            { "name": "Revolved Squat", "durationSeconds": 30 },
+            { "name": "Revolved Squat", "durationSeconds": 30 },
+            { "name": "Garland on Tiptoes", "durationSeconds": 30 },
+            { "name": "Garland Tiptoes → Forward Bend", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Floor & Self-Massage",
+          "poses": [
+            { "name": "Garland (Hands Under Feet)", "durationSeconds": 30 },
+            { "name": "Easy Pose", "durationSeconds": 10 },
+            { "name": "Revolved Easy Pose", "durationSeconds": 45 },
+            { "name": "Revolved Easy Pose", "durationSeconds": 45 },
+            { "name": "Right Palm Massage", "durationSeconds": 45 },
+            { "name": "Left Palm Massage", "durationSeconds": 45 },
+            { "name": "Right Forearm Massage", "durationSeconds": 45 },
+            { "name": "Left Forearm Massage", "durationSeconds": 45 },
+            { "name": "Reclined Knee Circles", "durationSeconds": 20 },
+            { "name": "Supine Twist", "durationSeconds": 45 },
+            { "name": "Supine Twist", "durationSeconds": 45 },
+            { "name": "Shoulder Stretch", "durationSeconds": 30 },
+            { "name": "Shoulder Stretch", "durationSeconds": 30 },
+            { "name": "Reclined Butterfly (Bolster)", "durationSeconds": 60 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Side-Lying Rest", "durationSeconds": 45 },
+            { "name": "Salutation Seal", "durationSeconds": 15 }
+          ]
+        }
+      ]
+    }
+  ]
+}
