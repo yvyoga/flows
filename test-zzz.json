@@ -3,17 +3,17 @@
   "flows": [
     {
       "id": "test-zzz",
-      "name": "Test ZZZ v2",
+      "name": "Test ZZZ",
       "type": "Test",
       "isFavorite": false,
       "tags": [],
       "sections": [
         {
-          "name": "Warm",
+          "name": "S",
           "poses": [
             {
-              "name": "Pose A",
-              "durationSeconds": 45
+              "name": "P",
+              "durationSeconds": 30
             }
           ]
         }
