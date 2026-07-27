@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "test-zzz",
+      "name": "Test ZZZ",
+      "type": "Test",
+      "isFavorite": false,
+      "tags": [
+        "scratch"
+      ],
+      "sections": [
+        {
+          "name": "Warm",
+          "poses": [
+            {
+              "name": "Pose A",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Tree",
+              "durationSeconds": 30,
+              "holdAtEnd": true
+            },
+            {
+              "name": "Savasana",
+              "durationSeconds": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
