@@ -3,7 +3,7 @@
   "flows": [
     {
       "id": "test-zzz",
-      "name": "Test ZZZ",
+      "name": "Test ZZZ v2",
       "type": "Test",
       "isFavorite": false,
       "tags": [],
@@ -13,7 +13,7 @@
           "poses": [
             {
               "name": "P",
-              "durationSeconds": 30
+              "durationSeconds": 45
             }
           ]
         }
