@@ -3,28 +3,17 @@
   "flows": [
     {
       "id": "test-zzz",
-      "name": "Test ZZZ",
+      "name": "Test ZZZ v2",
       "type": "Test",
       "isFavorite": false,
-      "tags": [
-        "scratch"
-      ],
+      "tags": [],
       "sections": [
         {
           "name": "Warm",
           "poses": [
             {
               "name": "Pose A",
-              "durationSeconds": 30
-            },
-            {
-              "name": "Tree",
-              "durationSeconds": 30,
-              "holdAtEnd": true
-            },
-            {
-              "name": "Savasana",
-              "durationSeconds": 0
+              "durationSeconds": 45
             }
           ]
         }
