@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-6iyce",
+      "name": "Pilates",
+      "type": "Pilates",
+      "isFavorite": false,
+      "tags": ["Core", "Props"],
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Table Top", "durationSeconds": 13 },
+            { "name": "Cat-Cow", "durationSeconds": 60 },
+            { "name": "Revolved Table Top (Hand Behind Head)", "durationSeconds": 30 },
+            { "name": "Revolved Table Top (Hand Raised)", "durationSeconds": 15 },
+            { "name": "Revolved Table Top (Hand Behind Head)", "durationSeconds": 30 },
+            { "name": "Revolved Table Top (Hand Raised)", "durationSeconds": 15 },
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Forward Fold", "durationSeconds": 10 },
+            { "name": "Mountain → Forward Fold (Arms Flow)", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Core & Hundreds",
+          "poses": [
+            { "name": "Plank", "durationSeconds": 30 },
+            { "name": "Cobra (Arms Out)", "durationSeconds": 60 },
+            { "name": "Cobra (Arm Movements)", "durationSeconds": 30 },
+            { "name": "Ring Press (Knees Bent)", "durationSeconds": 60 },
+            { "name": "Hold & add Crunch", "durationSeconds": 40 },
+            { "name": "Hold Up & Hundreds", "durationSeconds": 35 }
+          ]
+        },
+        {
+          "name": "Table Top (Ring)",
+          "poses": [
+            { "name": "Transition (ring under hips)", "durationSeconds": 60 },
+            { "name": "Table Top (Leg Raised)", "durationSeconds": 40 },
+            { "name": "Table Top Leg-Raise Push-Up", "durationSeconds": 60 },
+            { "name": "tiny pulses", "durationSeconds": 10 },
+            { "name": "Table Top Leg-Raise Push-Up", "durationSeconds": 60 },
+            { "name": "tiny pulses", "durationSeconds": 10 },
+            { "name": "Tiger (Ball Flow)", "durationSeconds": 120 },
+            { "name": "Table Top Hip Rotation", "durationSeconds": 45 },
+            { "name": "Table Top Hip Rotation", "durationSeconds": 45 },
+            { "name": "Transition (ring under hips)", "durationSeconds": 13 },
+            { "name": "Table Top (Leg Raised)", "durationSeconds": 40 },
+            { "name": "Table Top Leg-Raise Push-Up", "durationSeconds": 60 },
+            { "name": "Table Top Leg-Raise Push-Up", "durationSeconds": 60 },
+            { "name": "tiny pulses", "durationSeconds": 10 },
+            { "name": "Tiger (Ball Flow)", "durationSeconds": 120 },
+            { "name": "Table Top Hip Rotation", "durationSeconds": 45 },
+            { "name": "Table Top Hip Rotation", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Seated Core",
+          "poses": [
+            { "name": "Staff Pose", "durationSeconds": 10 },
+            { "name": "Staff Sit-Ups", "durationSeconds": 30 },
+            { "name": "add arms", "durationSeconds": 30 },
+            { "name": "Hold Back (Arms Only)", "durationSeconds": 30 },
+            { "name": "Revolved Staff (Arms Flow)", "durationSeconds": 60 },
+            { "name": "Staff → Seated Forward Bend", "durationSeconds": 30 },
+            { "name": "Boat Pose", "durationSeconds": 15 },
+            { "name": "Boat / Half Boat Flow", "durationSeconds": 30 },
+            { "name": "Extended-Leg Crunch (Ball)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Standing (Goddess & Lunges)",
+          "poses": [
+            { "name": "Goddess (Ring Flow)", "durationSeconds": 45 },
+            { "name": "add squat", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 10 },
+            { "name": "Crescent Lunge (Hands on Hips)", "durationSeconds": 15 },
+            { "name": "add ring squeeze", "durationSeconds": 50 },
+            { "name": "Crescent Lunge Knee Raise", "durationSeconds": 40 },
+            { "name": "Low Lunge Hamstring Stretch", "durationSeconds": 20 },
+            { "name": "Low Lunge Side Bend", "durationSeconds": 15 },
+            { "name": "tiny pulses", "durationSeconds": 10 },
+            { "name": "Goddess (Ring Flow)", "durationSeconds": 45 },
+            { "name": "add squat", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 10 },
+            { "name": "Crescent Lunge (Hands on Hips)", "durationSeconds": 15 },
+            { "name": "add ring squeeze", "durationSeconds": 50 },
+            { "name": "Crescent Lunge Knee Raise", "durationSeconds": 40 },
+            { "name": "Low Lunge Hamstring Stretch", "durationSeconds": 20 },
+            { "name": "Low Lunge Side Bend", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Side-Lying",
+          "poses": [
+            { "name": "Side-Lying Leg Raises", "durationSeconds": 60 },
+            { "name": "add upper leg lift", "durationSeconds": 60 },
+            { "name": "pulse at top", "durationSeconds": 10 },
+            { "name": "lower leg lift", "durationSeconds": 30 },
+            { "name": "pulse at top", "durationSeconds": 10 },
+            { "name": "Side-Lying Leg Raises", "durationSeconds": 60 },
+            { "name": "add upper leg lift", "durationSeconds": 60 },
+            { "name": "pulse at top", "durationSeconds": 10 },
+            { "name": "lower leg lift", "durationSeconds": 30 },
+            { "name": "pulse at top", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Supine Core",
+          "poses": [
+            { "name": "Raised Legs (Knees Bent)", "durationSeconds": 13 },
+            { "name": "Ring Press (Knees Bent)", "durationSeconds": 40 },
+            { "name": "add ring squeeze", "durationSeconds": 30 },
+            { "name": "pulse at top", "durationSeconds": 30 },
+            { "name": "Reverse Crunch", "durationSeconds": 40 },
+            { "name": "Skull Crushers (Ball)", "durationSeconds": 40 },
+            { "name": "add bridge lift", "durationSeconds": 60 },
+            { "name": "add bridge pulse", "durationSeconds": 40 },
+            { "name": "Dead Bug", "durationSeconds": 13 },
+            { "name": "add arm lift/lower", "durationSeconds": 30 },
+            { "name": "Alt Crunch & Twist", "durationSeconds": 45 },
+            { "name": "Constructive Rest", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Reclined & Close",
+          "poses": [
+            { "name": "Reclined Big Toe (Strap)", "durationSeconds": 10 },
+            { "name": "flex & point toes", "durationSeconds": 45 },
+            { "name": "Reclined Big Toe (Strap)", "durationSeconds": 60 },
+            { "name": "Reclined Big Toe B", "durationSeconds": 60 },
+            { "name": "Revolved Reclined Big Toe (Strap)", "durationSeconds": 60 },
+            { "name": "Reclined Big Toe (Strap)", "durationSeconds": 10 },
+            { "name": "flex & point toes", "durationSeconds": 45 },
+            { "name": "Reclined Big Toe (Strap)", "durationSeconds": 60 },
+            { "name": "Reclined Big Toe B", "durationSeconds": 60 },
+            { "name": "Revolved Reclined Big Toe (Strap)", "durationSeconds": 60 },
+            { "name": "Easy Pose", "durationSeconds": 13 },
+            { "name": "Easy Pose Side Bend", "durationSeconds": 45 },
+            { "name": "Easy Pose Side Bend", "durationSeconds": 45 }
+          ]
+        }
+      ]
+    }
+  ]
+}
