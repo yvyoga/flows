@@ -6,119 +6,386 @@
       "name": "Vin Yin 7/7",
       "type": "VinYin",
       "isFavorite": false,
-      "tags": ["Dynamic", "Yin"],
+      "tags": [
+        "Dynamic",
+        "Yin"
+      ],
       "sections": [
         {
           "name": "Warmup",
           "poses": [
-            { "name": "Fish Pose (Blocks)", "durationSeconds": 240 },
-            { "name": "Easy Pose", "durationSeconds": 13 },
-            { "name": "Seated Torso Circles", "durationSeconds": 45 },
-            { "name": "Easy Pose Warm-Up Flow", "durationSeconds": 180 },
-            { "name": "Seated Cat-Cow", "durationSeconds": 90 },
-            { "name": "Table Top", "durationSeconds": 13 },
-            { "name": "Table Top Hip Circles", "durationSeconds": 60 },
-            { "name": "Table Top Wrist Stretch", "durationSeconds": 30 },
-            { "name": "Seated Wrist Stretch", "durationSeconds": 30 },
-            { "name": "Table Top", "durationSeconds": 13 },
-            { "name": "Balancing Table", "durationSeconds": 45 },
-            { "name": "Balancing Table", "durationSeconds": 45 },
-            { "name": "Table Top (Knees Up)", "durationSeconds": 30 },
-            { "name": "Down Dog (One Knee Bent)", "durationSeconds": 90 },
-            { "name": "Down Dog (Knees Bent)", "durationSeconds": 20 },
-            { "name": "Dangling", "durationSeconds": 20 }
+            {
+              "name": "Fish Pose (Blocks)",
+              "durationSeconds": 240
+            },
+            {
+              "name": "Easy Pose",
+              "durationSeconds": 60
+            },
+            {
+              "name": "Seated Torso Circles",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Easy Pose Warm-Up Flow",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Seated Cat-Cow",
+              "durationSeconds": 90
+            },
+            {
+              "name": "Table Top",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Table Top Hip Circles",
+              "durationSeconds": 60
+            },
+            {
+              "name": "Table Top Wrist Stretch",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Seated Wrist Stretch",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Table Top",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Balancing Table",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Balancing Table",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Table Top (Knees Up)",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Down Dog (One Knee Bent)",
+              "durationSeconds": 90
+            },
+            {
+              "name": "Down Dog (Knees Bent)",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Dangling",
+              "durationSeconds": 20
+            }
           ]
         },
         {
           "name": "Sun A",
           "poses": [
-            { "name": "Mountain Pose", "durationSeconds": 10 },
-            { "name": "Extended Mountain (Backbend)", "durationSeconds": 10 },
-            { "name": "Cactus Arms Backbend", "durationSeconds": 10 },
-            { "name": "Forward Fold", "durationSeconds": 20 },
-            { "name": "Half Lift (Hands Up)", "durationSeconds": 25 },
-            { "name": "Diver Pose", "durationSeconds": 20 },
-            { "name": "Plank", "durationSeconds": 20 },
-            { "name": "Chaturanga", "durationSeconds": 20 },
-            { "name": "Up Dog → Down Dog", "durationSeconds": 30 },
-            { "name": "Mountain Pose", "durationSeconds": 10 },
-            { "name": "Extended Mountain (Backbend)", "durationSeconds": 10 },
-            { "name": "Cactus Arms Backbend", "durationSeconds": 10 },
-            { "name": "Forward Fold", "durationSeconds": 20 },
-            { "name": "Half Lift (Hands Up)", "durationSeconds": 25 },
-            { "name": "Diver Pose", "durationSeconds": 20 },
-            { "name": "Plank", "durationSeconds": 20 },
-            { "name": "Chaturanga", "durationSeconds": 20 },
-            { "name": "Up Dog → Down Dog", "durationSeconds": 30 }
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Extended Mountain (Backbend)",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Cactus Arms Backbend",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Forward Fold",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Half Lift (Hands Up)",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Diver Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Plank",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Chaturanga",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Up Dog → Down Dog",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Extended Mountain (Backbend)",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Cactus Arms Backbend",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Forward Fold",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Half Lift (Hands Up)",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Diver Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Plank",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Chaturanga",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Up Dog → Down Dog",
+              "durationSeconds": 30
+            }
           ]
         },
         {
           "name": "Sequence A",
           "poses": [
-            { "name": "Mountain Pose", "durationSeconds": 10 },
-            { "name": "Chair Pose", "durationSeconds": 45 },
-            { "name": "Revolved Chair", "durationSeconds": 30 },
-            { "name": "Half Chair", "durationSeconds": 30 },
-            { "name": "Forward Fold", "durationSeconds": 20 },
-            { "name": "Half Lift (Hands on Floor)", "durationSeconds": 10 },
-            { "name": "Downward Dog", "durationSeconds": 20 },
-            { "name": "Warrior I", "durationSeconds": 25 },
-            { "name": "Warrior II", "durationSeconds": 25 },
-            { "name": "Triangle (Bent Knee)", "durationSeconds": 25 },
-            { "name": "Warrior II", "durationSeconds": 25 },
-            { "name": "Warrior I", "durationSeconds": 20 },
-            { "name": "Mountain Pose", "durationSeconds": 10 },
-            { "name": "Chair Pose", "durationSeconds": 30 },
-            { "name": "Revolved Chair", "durationSeconds": 30 },
-            { "name": "Half Chair", "durationSeconds": 30 },
-            { "name": "Forward Fold", "durationSeconds": 20 },
-            { "name": "Downward Dog", "durationSeconds": 20 },
-            { "name": "Warrior I", "durationSeconds": 25 },
-            { "name": "Warrior II", "durationSeconds": 25 },
-            { "name": "Triangle (Bent Knee)", "durationSeconds": 25 },
-            { "name": "Warrior II", "durationSeconds": 25 },
-            { "name": "Warrior I", "durationSeconds": 15 }
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Chair Pose",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Revolved Chair",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Half Chair",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Forward Fold",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Half Lift (Hands on Floor)",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Downward Dog",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Warrior I",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior II",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Triangle (Bent Knee)",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior II",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior I",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Chair Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Revolved Chair",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Half Chair",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Forward Fold",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Downward Dog",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Warrior I",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior II",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Triangle (Bent Knee)",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior II",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior I",
+              "durationSeconds": 15
+            }
           ]
         },
         {
           "name": "Sequence B",
           "poses": [
-            { "name": "Plank", "durationSeconds": 20 },
-            { "name": "Side Plank", "durationSeconds": 30 },
-            { "name": "Side Plank Starfish", "durationSeconds": 10 },
-            { "name": "Plank", "durationSeconds": 10 },
-            { "name": "3-Legged Dog", "durationSeconds": 15 },
-            { "name": "Runner's Lunge", "durationSeconds": 15 },
-            { "name": "Low Lunge", "durationSeconds": 25 },
-            { "name": "Half Splits", "durationSeconds": 15 },
-            { "name": "Crescent Low Lunge (Knee Down)", "durationSeconds": 15 },
-            { "name": "Crescent Lunge (Kali Mudra Circles)", "durationSeconds": 20 },
-            { "name": "Wide Child's Pose", "durationSeconds": 13 },
-            { "name": "Plank", "durationSeconds": 20 },
-            { "name": "Side Plank", "durationSeconds": 30 },
-            { "name": "Side Plank Starfish", "durationSeconds": 10 },
-            { "name": "Plank", "durationSeconds": 30 },
-            { "name": "3-Legged Dog", "durationSeconds": 15 },
-            { "name": "Runner's Lunge", "durationSeconds": 15 },
-            { "name": "Low Lunge", "durationSeconds": 25 },
-            { "name": "Half Splits", "durationSeconds": 15 },
-            { "name": "Crescent Low Lunge (Knee Down)", "durationSeconds": 15 },
-            { "name": "Crescent Lunge (Kali Mudra Circles)", "durationSeconds": 20 }
+            {
+              "name": "Plank",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Side Plank",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Side Plank Starfish",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Plank",
+              "durationSeconds": 10
+            },
+            {
+              "name": "3-Legged Dog",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Runner's Lunge",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Low Lunge",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Half Splits",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Low Lunge (Knee Down)",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Lunge (Kali Mudra Circles)",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Wide Child's Pose",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Plank",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Side Plank",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Side Plank Starfish",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Plank",
+              "durationSeconds": 30
+            },
+            {
+              "name": "3-Legged Dog",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Runner's Lunge",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Low Lunge",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Half Splits",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Low Lunge (Knee Down)",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Lunge (Kali Mudra Circles)",
+              "durationSeconds": 20
+            }
           ]
         },
         {
           "name": "Yin",
           "poses": [
-            { "name": "Down Dog (Knees Down)", "durationSeconds": 180 },
-            { "name": "Supported Cobra (Bolster)", "durationSeconds": 120 },
-            { "name": "Revolved Cobra", "durationSeconds": 30 },
-            { "name": "Revolved Cobra", "durationSeconds": 30 },
-            { "name": "Child's Pose", "durationSeconds": 60 },
-            { "name": "Garland Pose", "durationSeconds": 90 },
-            { "name": "Reverse Pigeon", "durationSeconds": 180 },
-            { "name": "Reverse Pigeon", "durationSeconds": 180 },
-            { "name": "Supported Reclined Hero (Bolster)", "durationSeconds": 180 },
-            { "name": "Corpse Pose", "durationSeconds": 420 }
+            {
+              "name": "Down Dog (Knees Down)",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Supported Cobra (Bolster)",
+              "durationSeconds": 120
+            },
+            {
+              "name": "Revolved Cobra",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Revolved Cobra",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Child's Pose",
+              "durationSeconds": 60
+            },
+            {
+              "name": "Garland Pose",
+              "durationSeconds": 90
+            },
+            {
+              "name": "Reverse Pigeon",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Reverse Pigeon",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Supported Reclined Hero (Bolster)",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Corpse Pose",
+              "durationSeconds": 420
+            }
           ]
         }
       ]
