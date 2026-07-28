@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-8qxaz",
+      "name": "Vin Yin 7/7",
+      "type": "VinYin",
+      "isFavorite": false,
+      "tags": [],
+      "sections": [
+        {
+          "name": "Vin Yin 7/7",
+          "poses": [
+            {
+              "name": "Fish Pose Blocks",
+              "durationSeconds": 240
+            },
+            {
+              "name": "Warmup",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Easy Pose",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Seated Torso Circles",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Easy Pose Warm Up Flow",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Seated Cat Cow Pose",
+              "durationSeconds": 90
+            },
+            {
+              "name": "Table Top Pose",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Table Top Hip Circles",
+              "durationSeconds": 60
+            },
+            {
+              "name": "Table Top Pose Wrist Stretch",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Sitting Wrist Stretch Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Table Top Pose",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Balancing Table Pose",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Balancing Table Pose",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Table Top Pose Knees Up",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Downward Facing Dog Pose Variation One Knee Bent",
+              "durationSeconds": 90
+            },
+            {
+              "name": "Downward Facing Dog Pose Variation Knees Bent",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Dangling Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "sway to stand",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Yang Section",
+              "durationSeconds": 13
+            }
+          ]
+        },
+        {
+          "name": "Sun A",
+          "poses": [
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Extended Mountain Pose With Backbend",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Mountain Pose Cactus Arms Backbend",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Standing Forward Fold Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Extended Hands Upward Forward Fold",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Diver Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Plank Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Four Limbed Staff Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Upward Facing Dog Pose Downward Facing Dog Pose Flow",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Extended Mountain Pose With Backbend",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Mountain Pose Cactus Arms Backbend",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Standing Forward Fold Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Extended Hands Upward Forward Fold",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Diver Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Plank Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Four Limbed Staff Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Upward Facing Dog Pose Downward Facing Dog Pose Flow",
+              "durationSeconds": 30
+            }
+          ]
+        },
+        {
+          "name": "Sequence A",
+          "poses": [
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Chair Pose",
+              "durationSeconds": 45
+            },
+            {
+              "name": "Revolved Chair Pose Easy Stretch",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Half Chair Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Standing Forward Fold Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Half Forward Fold Hands On Floor",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Downward Facing Dog Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Warrior Pose I",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior Pose Ii",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Triangle Pose Variation Bent Knee",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior Pose Ii",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior Pose I",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Mountain Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Chair Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Revolved Chair Pose Easy Stretch",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Half Chair Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Standing Forward Fold Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Downward Facing Dog Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Warrior Pose I",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior Pose Ii",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Triangle Pose Variation Bent Knee",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior Pose Ii",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Warrior Pose I",
+              "durationSeconds": 15
+            }
+          ]
+        },
+        {
+          "name": "Sequence B",
+          "poses": [
+            {
+              "name": "Plank Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Side Plank Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Side Plank Starfish",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Plank Pose",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Three Legged Downward Facing Dog Pose",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Runners Lunge Pose",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Low Lunge Pose",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Half Splits Pose",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Low Lunge Pose Variation Knee On Floor",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Low Lunge Pose Arms Raised Kali Mudra Chest Circles",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Wide Child Pose",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Plank Pose",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Side Plank Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Side Plank Starfish",
+              "durationSeconds": 10
+            },
+            {
+              "name": "Plank Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Three Legged Downward Facing Dog Pose",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Runners Lunge Pose",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Low Lunge Pose",
+              "durationSeconds": 25
+            },
+            {
+              "name": "Half Splits Pose",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Low Lunge Pose Variation Knee On Floor",
+              "durationSeconds": 15
+            },
+            {
+              "name": "Crescent Low Lunge Pose Arms Raised Kali Mudra Chest Circles",
+              "durationSeconds": 20
+            },
+            {
+              "name": "Yin Section",
+              "durationSeconds": 13
+            },
+            {
+              "name": "Downward Facing Dog Pose Knees On Floor Variation",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Cobra Pose Thighs Blanket Hips Bolster",
+              "durationSeconds": 120
+            },
+            {
+              "name": "Revolved Cobra Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Revolved Cobra Pose",
+              "durationSeconds": 30
+            },
+            {
+              "name": "Child Pose",
+              "durationSeconds": 60
+            },
+            {
+              "name": "Garland Pose",
+              "durationSeconds": 90
+            },
+            {
+              "name": "Reverse Pigeon Pose",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Reverse Pigeon Pose",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Reclined Supported Hero Pose Variation Bolster",
+              "durationSeconds": 180
+            },
+            {
+              "name": "Corpse Pose Roll Under Spine",
+              "durationSeconds": 420
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
