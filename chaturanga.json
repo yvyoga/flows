@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-qxqrs",
+      "name": "Chaturanga",
+      "type": "Hatha",
+      "isFavorite": false,
+      "tags": ["Alignment", "Strength", "Props"],
+      "sections": [
+        {
+          "name": "Intention & Breath",
+          "poses": [
+            { "name": "Reclined Butterfly (Blocks)", "durationSeconds": 0 }
+          ]
+        },
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Seated Shoulder Rolls", "durationSeconds": 0 },
+            { "name": "Seated Torso Circles", "durationSeconds": 0 },
+            { "name": "Seated Cat-Cow (Feet on Floor)", "durationSeconds": 0 },
+            { "name": "Rotator Cuff Stretch", "durationSeconds": 0 },
+            { "name": "Thread the Needle", "durationSeconds": 0 },
+            { "name": "Thread the Needle", "durationSeconds": 0 },
+            { "name": "Gate → Kneeling Half Moon Flow", "durationSeconds": 0 },
+            { "name": "Gate → Kneeling Half Moon Flow", "durationSeconds": 0 },
+            { "name": "Half Sun Salutation", "durationSeconds": 0 },
+            { "name": "Vin Demo", "durationSeconds": 0 },
+            { "name": "Strap Side-to-Side Pull", "durationSeconds": 0 },
+            { "name": "Thunderbolt Scapula Push-Ups", "durationSeconds": 0 },
+            { "name": "Scapula Push-Ups (Wall)", "durationSeconds": 0 },
+            { "name": "Prone Hands Spread on Floor", "durationSeconds": 0 },
+            { "name": "Hovering Cat", "durationSeconds": 0 },
+            { "name": "Rocket Cat", "durationSeconds": 0 },
+            { "name": "Toe Squat", "durationSeconds": 0 },
+            { "name": "Repeat Flow", "durationSeconds": 0 },
+            { "name": "Plank (Knees Down)", "durationSeconds": 0 },
+            { "name": "Chaturanga (Knees Down)", "durationSeconds": 0 },
+            { "name": "Child's Pose", "durationSeconds": 0 },
+            { "name": "Repeat Flow", "durationSeconds": 0 },
+            { "name": "Downward Dog", "durationSeconds": 0 },
+            { "name": "Eight-Limbed Pose", "durationSeconds": 0 },
+            { "name": "Repeat Flow", "durationSeconds": 0 },
+            { "name": "Chaturanga (Blocks Under Shoulders)", "durationSeconds": 0 },
+            { "name": "Chaturanga (Feet at Wall, Block Under Belly)", "durationSeconds": 0 },
+            { "name": "Chaturanga (Strap Around Elbows)", "durationSeconds": 0 },
+            { "name": "Sun Salutation A", "durationSeconds": 0 }
+          ]
+        },
+        {
+          "name": "Crow Prep",
+          "poses": [
+            { "name": "Garland Pose", "durationSeconds": 0 },
+            { "name": "Garland → Forward Fold Flow", "durationSeconds": 0 },
+            { "name": "Revolved Squat", "durationSeconds": 0 },
+            { "name": "Revolved Squat", "durationSeconds": 0 },
+            { "name": "Garland on Tiptoes (Hands Extended)", "durationSeconds": 0 }
+          ]
+        },
+        {
+          "name": "Stretch & Relax",
+          "poses": [
+            { "name": "Easy Pose", "durationSeconds": 0 },
+            { "name": "Easy Pose (Bound Hands)", "durationSeconds": 0 },
+            { "name": "Easy Pose Chest Massage (Ball)", "durationSeconds": 0 },
+            { "name": "Constructive Rest Shoulder Massage (Ball)", "durationSeconds": 0 },
+            { "name": "Upper Back Roller (Bear Hug Arms)", "durationSeconds": 0 },
+            { "name": "Constructive Rest Shoulder Massage (Ball)", "durationSeconds": 0 },
+            { "name": "Shoulder Stretch", "durationSeconds": 0 },
+            { "name": "Shoulder Stretch", "durationSeconds": 0 },
+            { "name": "Corpse Pose", "durationSeconds": 0 },
+            { "name": "Side-Lying Corpse Pose", "durationSeconds": 0 },
+            { "name": "Easy Pose", "durationSeconds": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}
