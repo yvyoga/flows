@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-ocaic",
+      "name": "Vin Yin 8/11",
+      "type": "VinYin",
+      "isFavorite": false,
+      "tags": ["Dynamic", "Yin"],
+      "sections": [
+        {
+          "name": "Intention & Breath",
+          "poses": [
+            { "name": "Easy Pose", "durationSeconds": 60 },
+            { "name": "Introduce Breath", "durationSeconds": 30 },
+            { "name": "Set Intention", "durationSeconds": 140 }
+          ]
+        },
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Seated Neck Rolls", "durationSeconds": 30 },
+            { "name": "Seated Shoulder Rolls", "durationSeconds": 30 },
+            { "name": "Seated Torso Circles", "durationSeconds": 30 },
+            { "name": "Seated Cat-Cow", "durationSeconds": 30 },
+            { "name": "Easy Pose Side Bend", "durationSeconds": 45 },
+            { "name": "Toe Squat", "durationSeconds": 30 },
+            { "name": "Ankle Stretch", "durationSeconds": 30 },
+            { "name": "Table Top", "durationSeconds": 20 },
+            { "name": "Cat-Cow", "durationSeconds": 60 },
+            { "name": "Child's Pose", "durationSeconds": 40 },
+            { "name": "Half Camel (Head Up)", "durationSeconds": 30 },
+            { "name": "Child's Pose", "durationSeconds": 5 },
+            { "name": "Repeat 3", "durationSeconds": 30 },
+            { "name": "Half Camel (Head Up)", "durationSeconds": 30 },
+            { "name": "Child's Pose", "durationSeconds": 5 },
+            { "name": "Repeat 3", "durationSeconds": 30 },
+            { "name": "Camel Pose", "durationSeconds": 30 },
+            { "name": "Wide Child's Pose", "durationSeconds": 30 },
+            { "name": "Gate → Kneeling Half Moon Flow", "durationSeconds": 60 },
+            { "name": "Thread the Needle (Leg Up)", "durationSeconds": 30 },
+            { "name": "Gate → Kneeling Half Moon Flow", "durationSeconds": 60 },
+            { "name": "Thread the Needle (Leg Up)", "durationSeconds": 30 },
+            { "name": "Dolphin Pose", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Sunnies",
+          "poses": [
+            { "name": "Forward Fold", "durationSeconds": 14 },
+            { "name": "Half Lift (Hands on Shins)", "durationSeconds": 5 },
+            { "name": "Forward Fold", "durationSeconds": 5 },
+            { "name": "Volcano Pose", "durationSeconds": 5 },
+            { "name": "Mountain Pose (Namaste)", "durationSeconds": 5 },
+            { "name": "Repeat 3", "durationSeconds": 13 },
+            { "name": "Sun Salutation A", "durationSeconds": 45 },
+            { "name": "Sun Salutation A (First Half)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Warriors",
+          "poses": [
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Warrior I → Humble Warrior Flow", "durationSeconds": 45 },
+            { "name": "High Lunge", "durationSeconds": 15 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Reverse Warrior", "durationSeconds": 15 },
+            { "name": "Triangle", "durationSeconds": 30 },
+            { "name": "Dancing Triangle", "durationSeconds": 20 },
+            { "name": "Pyramid (Hands on Hips)", "durationSeconds": 20 },
+            { "name": "Revolved Triangle", "durationSeconds": 13 },
+            { "name": "Reverse Triangle", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 30 },
+            { "name": "Warrior I", "durationSeconds": 15 },
+            { "name": "Five-Pointed Star", "durationSeconds": 15 },
+            { "name": "Side Lunge → Forward Bend Flow", "durationSeconds": 30 },
+            { "name": "Wide-Legged Squat (Over One Leg)", "durationSeconds": 45 },
+            { "name": "Wide-Legged Squat (Over One Leg)", "durationSeconds": 45 },
+            { "name": "Goddess Pose", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Warriors (Left)",
+          "poses": [
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Warrior I → Humble Warrior Flow", "durationSeconds": 45 },
+            { "name": "High Lunge", "durationSeconds": 15 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Reverse Warrior", "durationSeconds": 15 },
+            { "name": "Triangle", "durationSeconds": 30 },
+            { "name": "Dancing Triangle", "durationSeconds": 20 },
+            { "name": "Pyramid (Hands on Hips)", "durationSeconds": 20 },
+            { "name": "Revolved Triangle", "durationSeconds": 13 },
+            { "name": "Reverse Triangle", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 30 },
+            { "name": "Step Forward to Forward Fold", "durationSeconds": 13 },
+            { "name": "Half Lift (Hands on Floor)", "durationSeconds": 10 },
+            { "name": "Forward Fold", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 45 },
+            { "name": "Chair on Tiptoes", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Balance",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 60 },
+            { "name": "Stork Pose", "durationSeconds": 30 },
+            { "name": "Tree Pose", "durationSeconds": 40 },
+            { "name": "Standing Wind Release", "durationSeconds": 40 },
+            { "name": "Standing Quad Stretch", "durationSeconds": 30 },
+            { "name": "Dancer Pose", "durationSeconds": 45 },
+            { "name": "Warrior III", "durationSeconds": 30 },
+            { "name": "Revolved Half Moon", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Balance (Left)",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 60 },
+            { "name": "Stork Pose", "durationSeconds": 30 },
+            { "name": "Tree Pose", "durationSeconds": 40 },
+            { "name": "Standing Wind Release", "durationSeconds": 40 },
+            { "name": "Standing Quad Stretch", "durationSeconds": 30 },
+            { "name": "Dancer Pose", "durationSeconds": 45 },
+            { "name": "Warrior III", "durationSeconds": 30 },
+            { "name": "Revolved Half Moon", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Yin",
+          "poses": [
+            { "name": "Garland Pose", "durationSeconds": 40 },
+            { "name": "Seated Forward Bend", "durationSeconds": 60 },
+            { "name": "Half Lord of the Fishes", "durationSeconds": 30 },
+            { "name": "Half Lord of the Fishes", "durationSeconds": 30 },
+            { "name": "Bridge Pose", "durationSeconds": 180 },
+            { "name": "Reclined Bound Angle", "durationSeconds": 120 },
+            { "name": "Supine Twist II", "durationSeconds": 45 },
+            { "name": "Supine Twist II", "durationSeconds": 75 },
+            { "name": "Happy Baby", "durationSeconds": 30 },
+            { "name": "Half Plough", "durationSeconds": 60 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Side-Lying Corpse Pose", "durationSeconds": 30 },
+            { "name": "Salutation Seal", "durationSeconds": 30 }
+          ]
+        }
+      ]
+    }
+  ]
+}
