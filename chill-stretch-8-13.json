@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-rzy5l",
+      "name": "Chill Stretch 8/13",
+      "type": "Stretch",
+      "isFavorite": false,
+      "tags": ["Relaxing", "Mobility"],
+      "sections": [
+        {
+          "name": "Seated Warm-Up",
+          "poses": [
+            { "name": "Easy Pose (Raised Arms)", "durationSeconds": 45 },
+            { "name": "Seated Neck Rolls", "durationSeconds": 45 },
+            { "name": "Seated Neck Rolls", "durationSeconds": 45 },
+            { "name": "Neck Side Stretch", "durationSeconds": 45 },
+            { "name": "Neck Side Stretch", "durationSeconds": 45 },
+            { "name": "Seated Deltoid Stretch", "durationSeconds": 45 },
+            { "name": "Seated Deltoid Stretch", "durationSeconds": 45 },
+            { "name": "Seated Shoulder Rolls", "durationSeconds": 45 },
+            { "name": "Seated Torso Circles", "durationSeconds": 45 },
+            { "name": "Seated Torso Circles", "durationSeconds": 45 },
+            { "name": "Thunderbolt on Toes (Shoulder Retraction)", "durationSeconds": 60 },
+            { "name": "Easy Pose Warm-Up Flow", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Kneeling & Table Top",
+          "poses": [
+            { "name": "Thunderbolt Pose", "durationSeconds": 20 },
+            { "name": "Seated Mountain (Thunderbolt)", "durationSeconds": 30 },
+            { "name": "Camel (Hands on Floor)", "durationSeconds": 45 },
+            { "name": "Cat-Cow (Thunderbolt Legs)", "durationSeconds": 30 },
+            { "name": "Child's Pose (Arms to Side)", "durationSeconds": 45 },
+            { "name": "Child's Pose (Arms to Side)", "durationSeconds": 45 },
+            { "name": "Table Top Wrist Stretch", "durationSeconds": 60 },
+            { "name": "Cat-Cow", "durationSeconds": 45 },
+            { "name": "Puppy Dog", "durationSeconds": 45 },
+            { "name": "Downward Dog", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Lunges",
+          "poses": [
+            { "name": "Low Lunge (Torso on Leg)", "durationSeconds": 45 },
+            { "name": "Half Splits (Block)", "durationSeconds": 45 },
+            { "name": "Crescent Lunge → Hamstring Stretch Flow", "durationSeconds": 45 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Revolved Crescent Lunge (Arms Spread)", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Knee Down)", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Variation)", "durationSeconds": 30 },
+            { "name": "Reverse Crescent Lunge Twist", "durationSeconds": 30 },
+            { "name": "Child's Pose", "durationSeconds": 13 }
+          ]
+        },
+        {
+          "name": "Lunges (Left)",
+          "poses": [
+            { "name": "Low Lunge (Torso on Leg)", "durationSeconds": 45 },
+            { "name": "Half Splits (Block)", "durationSeconds": 45 },
+            { "name": "Crescent Lunge → Hamstring Stretch Flow", "durationSeconds": 45 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Revolved Crescent Lunge (Arms Spread)", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Knee Down)", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Variation)", "durationSeconds": 30 },
+            { "name": "Reverse Crescent Lunge Twist", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Squats",
+          "poses": [
+            { "name": "Garland Pose", "durationSeconds": 45 },
+            { "name": "Revolved Squat", "durationSeconds": 45 },
+            { "name": "Revolved Squat", "durationSeconds": 45 },
+            { "name": "Garland on Tiptoes", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Hips",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Winged Dragon", "durationSeconds": 45 },
+            { "name": "Low Lunge Open Twist", "durationSeconds": 45 },
+            { "name": "Half Pigeon", "durationSeconds": 45 },
+            { "name": "Thread the Needle (Pigeon Legs)", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Hips (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Winged Dragon", "durationSeconds": 45 },
+            { "name": "Low Lunge Open Twist", "durationSeconds": 45 },
+            { "name": "Half Pigeon", "durationSeconds": 45 },
+            { "name": "Thread the Needle (Pigeon Legs)", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Shoulders & Supine",
+          "poses": [
+            { "name": "Cow Face (Eagle Arms)", "durationSeconds": 45 },
+            { "name": "Cow Face (Eagle Arms)", "durationSeconds": 45 },
+            { "name": "Full Body Stretch", "durationSeconds": 60 },
+            { "name": "Reverse Pigeon", "durationSeconds": 60 },
+            { "name": "Half Wind Release", "durationSeconds": 60 },
+            { "name": "Supine Twist I", "durationSeconds": 60 },
+            { "name": "Wind Release", "durationSeconds": 60 },
+            { "name": "Reverse Pigeon", "durationSeconds": 60 },
+            { "name": "Half Wind Release", "durationSeconds": 60 },
+            { "name": "Supine Twist I", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Close",
+          "poses": [
+            { "name": "Reclined Butterfly (Hands to Elbows)", "durationSeconds": 180 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Thunderbolt (Prayer Hands)", "durationSeconds": 30 }
+          ]
+        }
+      ]
+    }
+  ]
+}
