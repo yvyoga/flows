@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-k8y0h",
+      "name": "Series A VY Class 1",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Balance", "Props"],
+      "sections": [
+        {
+          "name": "Warm-Up (Seated)",
+          "poses": [
+            { "name": "Easy Pose", "durationSeconds": 120 },
+            { "name": "Seated Cat-Cow", "durationSeconds": 45 },
+            { "name": "Seated Cat (Hands Interlaced)", "durationSeconds": 20 },
+            { "name": "Seated Shoulder Rolls", "durationSeconds": 30 },
+            { "name": "Seated Torso Circles", "durationSeconds": 13 },
+            { "name": "Revolved Bound Angle Side Stretch", "durationSeconds": 30 },
+            { "name": "Revolved Bound Angle Side Stretch", "durationSeconds": 30 },
+            { "name": "Supine Forearm Scissors Flow", "durationSeconds": 60 },
+            { "name": "Rocket Cat", "durationSeconds": 25 },
+            { "name": "Seated Wrist Stretch", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Sun Salutations",
+          "poses": [
+            { "name": "Standing Backbend", "durationSeconds": 25 },
+            { "name": "Palm Tree Pose", "durationSeconds": 20 },
+            { "name": "Wide-Legged Standing Yoga Seal", "durationSeconds": 30 },
+            { "name": "Sun Salutation A (Second Half)", "durationSeconds": 60 },
+            { "name": "Sun Salutation A (First Half)", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Warrior & Chair Series",
+          "poses": [
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Chair Pose (Arms Outstretched)", "durationSeconds": 10 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 30 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 30 },
+            { "name": "Tree Pose", "durationSeconds": 40 },
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Five-Pointed Star", "durationSeconds": 30 },
+            { "name": "Goddess Pose", "durationSeconds": 30 },
+            { "name": "Horse Pose Side Stretch", "durationSeconds": 30 },
+            { "name": "Horse Pose Side Stretch", "durationSeconds": 30 },
+            { "name": "Bear Pose", "durationSeconds": 20 },
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Chair Pose (Arms Outstretched)", "durationSeconds": 20 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 30 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 30 },
+            { "name": "Tree Pose", "durationSeconds": 40 }
+          ]
+        },
+        {
+          "name": "Warrior II & Triangle",
+          "poses": [
+            { "name": "High Lunge", "durationSeconds": 30 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Extended Triangle", "durationSeconds": 30 },
+            { "name": "Five-Pointed Star", "durationSeconds": 30 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Extended Triangle", "durationSeconds": 40 }
+          ]
+        },
+        {
+          "name": "Lunges & Forward Folds",
+          "poses": [
+            { "name": "Wide-Legged Forward Fold (Hands on Knees)", "durationSeconds": 20 },
+            { "name": "Wide-Legged Forward Fold (Dangling)", "durationSeconds": 20 },
+            { "name": "Wide-Legged Forward Fold Side Stretch", "durationSeconds": 15 },
+            { "name": "Wide-Legged Forward Fold Side Stretch", "durationSeconds": 15 },
+            { "name": "High Lunge", "durationSeconds": 30 },
+            { "name": "Low Lunge (Triceps Stretch)", "durationSeconds": 30 },
+            { "name": "Lizard Pose (Arms Forward)", "durationSeconds": 30 },
+            { "name": "Sun Salutation A (First Half)", "durationSeconds": 45 },
+            { "name": "High Lunge", "durationSeconds": 30 },
+            { "name": "Low Lunge (Triceps Stretch)", "durationSeconds": 30 },
+            { "name": "Lizard Pose (Arms Forward)", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Child's Pose", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Seated Stretches",
+          "poses": [
+            { "name": "Staff Pose (Knee Stretches)", "durationSeconds": 60 },
+            { "name": "Staff Pose (Knee Stretches)", "durationSeconds": 60 },
+            { "name": "Seated Forward Bend (Strap)", "durationSeconds": 90 },
+            { "name": "Seated Straddle (Upright, Blanket)", "durationSeconds": 40 },
+            { "name": "Upward-Facing Seated Straddle", "durationSeconds": 60 },
+            { "name": "Revolved Seated Angle", "durationSeconds": 120 },
+            { "name": "Revolved Seated Angle", "durationSeconds": 120 },
+            { "name": "Seated Windshield Wiper", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Floor & Closing",
+          "poses": [
+            { "name": "Sleeping Swan", "durationSeconds": 120 },
+            { "name": "Sleeping Swan", "durationSeconds": 120 },
+            { "name": "Half Wind Release (Variation)", "durationSeconds": 20 },
+            { "name": "Half Wind Release (Variation)", "durationSeconds": 20 },
+            { "name": "Bridge Pose (Block)", "durationSeconds": 120 },
+            { "name": "Wind Release Flow", "durationSeconds": 30 },
+            { "name": "Supine Spinal Twist I", "durationSeconds": 120 },
+            { "name": "Supine Spinal Twist I", "durationSeconds": 120 },
+            { "name": "Reclining Bound Angle", "durationSeconds": 120 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Easy Pose", "durationSeconds": 13 }
+          ]
+        }
+      ]
+    }
+  ]
+}
