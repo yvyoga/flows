@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-bhskj",
+      "name": "Warrior Sequence 1 08/20",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Props"],
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Reclining Backbend (Bolster)", "durationSeconds": 120 },
+            { "name": "Banana Pose", "durationSeconds": 45 },
+            { "name": "Banana Pose (Variation)", "durationSeconds": 45 },
+            { "name": "Half Wind Release", "durationSeconds": 20 },
+            { "name": "Half Wind Release", "durationSeconds": 20 },
+            { "name": "Wind Release", "durationSeconds": 10 },
+            { "name": "Wind Release (Nose to Knee)", "durationSeconds": 30 },
+            { "name": "Roll to Seat", "durationSeconds": 13 },
+            { "name": "Mountain Pose", "durationSeconds": 25 },
+            { "name": "Upward Salute (Side Bend)", "durationSeconds": 30 },
+            { "name": "Upward Salute (Side Bend)", "durationSeconds": 30 },
+            { "name": "Forward Fold (Knees Bent)", "durationSeconds": 30 },
+            { "name": "Revolved Forward Fold (Knee Bent)", "durationSeconds": 25 },
+            { "name": "Revolved Forward Fold (Knee Bent)", "durationSeconds": 25 },
+            { "name": "Forward Fold Flow", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Karana",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 15 },
+            { "name": "Volcano Pose", "durationSeconds": 15 },
+            { "name": "Forward Fold", "durationSeconds": 10 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 10 },
+            { "name": "Runner's Lunge", "durationSeconds": 30 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Forward Fold", "durationSeconds": 20 },
+            { "name": "Volcano Pose", "durationSeconds": 10 },
+            { "name": "Forward Fold", "durationSeconds": 10 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 10 },
+            { "name": "Runner's Lunge", "durationSeconds": 30 },
+            { "name": "Low Lunge", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Intro to Warrior I",
+          "poses": [
+            { "name": "Five-Pointed Star", "durationSeconds": 120 },
+            { "name": "Warrior I (Straight Leg)", "durationSeconds": 120 },
+            { "name": "Warrior I", "durationSeconds": 120 },
+            { "name": "Five-Pointed Star", "durationSeconds": 60 },
+            { "name": "Warrior I (Straight Leg)", "durationSeconds": 120 },
+            { "name": "Warrior I", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Dancing Warrior (Right)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 60 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 45 },
+            { "name": "Runner's Lunge", "durationSeconds": 45 },
+            { "name": "Warrior I", "durationSeconds": 60 },
+            { "name": "Humble Warrior", "durationSeconds": 40 },
+            { "name": "Revolved Warrior I (Prayer Hands)", "durationSeconds": 45 },
+            { "name": "Warrior I (Straight Leg)", "durationSeconds": 45 },
+            { "name": "Pyramid Prep (Backbend)", "durationSeconds": 30 },
+            { "name": "Pyramid Pose (Variation)", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Warrior III", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Dancing Warrior (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 45 },
+            { "name": "Runner's Lunge", "durationSeconds": 45 },
+            { "name": "Warrior I", "durationSeconds": 60 },
+            { "name": "Humble Warrior", "durationSeconds": 40 },
+            { "name": "Revolved Warrior I (Prayer Hands)", "durationSeconds": 45 },
+            { "name": "Warrior I (Straight Leg)", "durationSeconds": 45 },
+            { "name": "Pyramid Prep (Backbend)", "durationSeconds": 30 },
+            { "name": "Pyramid Pose (Variation)", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Warrior III", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Crow Prep",
+          "poses": [
+            { "name": "Garland Pose (Block Under Hips)", "durationSeconds": 13 },
+            { "name": "Garland Pose", "durationSeconds": 60 },
+            { "name": "Crow Pose (Block Flow)", "durationSeconds": 180 }
+          ]
+        },
+        {
+          "name": "Stretch and Savasana",
+          "poses": [
+            { "name": "Table Top", "durationSeconds": 20 },
+            { "name": "Half Pigeon (Variation)", "durationSeconds": 45 },
+            { "name": "Half Pigeon (Variation)", "durationSeconds": 45 },
+            { "name": "Staff Pose", "durationSeconds": 30 },
+            { "name": "Head-to-Knee (Variation C)", "durationSeconds": 30 },
+            { "name": "Head to Knee", "durationSeconds": 30 },
+            { "name": "Seated Forward Bend", "durationSeconds": 30 },
+            { "name": "Foam Roller Figure 4", "durationSeconds": 13 },
+            { "name": "Foam Roller Figure 4", "durationSeconds": 13 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Side-Lying Corpse Pose", "durationSeconds": 13 },
+            { "name": "Bound Angle Pose", "durationSeconds": 13 }
+          ]
+        }
+      ]
+    }
+  ]
+}
