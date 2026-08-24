@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-o8swe",
+      "name": "Series B VY Class 2",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Balance", "Backbend"],
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Easy Pose", "durationSeconds": 120 },
+            { "name": "Easy Pose Neck Rolls", "durationSeconds": 30 },
+            { "name": "Circle of Joy", "durationSeconds": 120 },
+            { "name": "Easy Pose Side Bend", "durationSeconds": 30 },
+            { "name": "Easy Pose Side Bend", "durationSeconds": 30 },
+            { "name": "Easy Pose (Elbows on Floor)", "durationSeconds": 30 },
+            { "name": "Wrist Circles", "durationSeconds": 13 },
+            { "name": "Cat-Cow", "durationSeconds": 60 },
+            { "name": "Thread the Needle Flow", "durationSeconds": 45 },
+            { "name": "Thread the Needle Flow", "durationSeconds": 45 },
+            { "name": "Child's Pose", "durationSeconds": 30 },
+            { "name": "Downward Dog (One Knee Bent)", "durationSeconds": 60 },
+            { "name": "Forward Fold (Hands to Elbows, Knees Bent)", "durationSeconds": 30 },
+            { "name": "Standing Shoulder Rolls", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Sun Salutations",
+          "poses": [
+            { "name": "Sun Salutation A", "durationSeconds": 120 },
+            { "name": "Hand to Big Toe", "durationSeconds": 15 },
+            { "name": "Mountain Pose (Namaste)", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Triangle & Half Moon",
+          "poses": [
+            { "name": "Wide-Legged Stance (Hands on Hips)", "durationSeconds": 20 },
+            { "name": "Five-Pointed Star", "durationSeconds": 30 },
+            { "name": "Triangle Pose", "durationSeconds": 30 },
+            { "name": "Reverse Triangle", "durationSeconds": 30 },
+            { "name": "Extended Side Angle (Elbow on Thigh)", "durationSeconds": 30 },
+            { "name": "Half Moon Pose", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 20 },
+            { "name": "Plank Pose", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 20 },
+            { "name": "Triangle Pose", "durationSeconds": 30 },
+            { "name": "Reverse Triangle", "durationSeconds": 30 },
+            { "name": "Extended Side Angle (Elbow on Thigh)", "durationSeconds": 30 },
+            { "name": "Half Moon Pose", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Chair & Eagle",
+          "poses": [
+            { "name": "Extended Mountain (Backbend)", "durationSeconds": 15 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Eagle Pose", "durationSeconds": 30 },
+            { "name": "Standing Hand to Big Toe (D1)", "durationSeconds": 30 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Eagle Pose", "durationSeconds": 30 },
+            { "name": "Standing Hand to Big Toe (D1)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Lunges & Warrior III",
+          "poses": [
+            { "name": "Wide-Legged Stance (Hands on Hips)", "durationSeconds": 15 },
+            { "name": "Wide-Legged Forward Fold Flow", "durationSeconds": 20 },
+            { "name": "Wide-Legged Forward Fold Flow", "durationSeconds": 20 },
+            { "name": "Runner's Lunge", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 25 },
+            { "name": "High Lunge (Shoulder Opener)", "durationSeconds": 20 },
+            { "name": "Half Pyramid (Prayer Hands Behind Back)", "durationSeconds": 30 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 20 },
+            { "name": "Plank Pose", "durationSeconds": 45 },
+            { "name": "Runner's Lunge", "durationSeconds": 10 },
+            { "name": "High Lunge", "durationSeconds": 25 },
+            { "name": "High Lunge (Shoulder Opener)", "durationSeconds": 20 },
+            { "name": "Half Pyramid (Prayer Hands Behind Back)", "durationSeconds": 30 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 20 },
+            { "name": "Runner's Lunge", "durationSeconds": 10 },
+            { "name": "Lizard Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Side Plank & Wild Thing",
+          "poses": [
+            { "name": "Table Top", "durationSeconds": 20 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Side Plank", "durationSeconds": 30 },
+            { "name": "Wild Thing Pose", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Side Plank", "durationSeconds": 30 },
+            { "name": "Wild Thing Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Seated Stretch & Savasana",
+          "poses": [
+            { "name": "Staff Pose", "durationSeconds": 30 },
+            { "name": "Upward Plank Pose", "durationSeconds": 30 },
+            { "name": "Seated Forward Bend", "durationSeconds": 15 },
+            { "name": "Greeting the Earth", "durationSeconds": 120 },
+            { "name": "Seated Forward Bend", "durationSeconds": 20 },
+            { "name": "Greeting the Earth", "durationSeconds": 120 },
+            { "name": "Bridge Pose", "durationSeconds": 120 },
+            { "name": "Revolved Head-to-Knee (Elbow Block)", "durationSeconds": 120 },
+            { "name": "Seated Straddle (Head on Block)", "durationSeconds": 120 },
+            { "name": "Revolved Head-to-Knee (Elbow Block)", "durationSeconds": 120 },
+            { "name": "Sleeping Swan", "durationSeconds": 120 },
+            { "name": "Sleeping Swan", "durationSeconds": 120 },
+            { "name": "Wind Release", "durationSeconds": 30 },
+            { "name": "Supine Twist II", "durationSeconds": 120 },
+            { "name": "Supine Twist II", "durationSeconds": 120 },
+            { "name": "Corpse Pose", "durationSeconds": 300 },
+            { "name": "Accomplished Pose", "durationSeconds": 13 }
+          ]
+        }
+      ]
+    }
+  ]
+}
