@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-uqlo7",
+      "name": "Warrior 2 Sequence 08/27",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Balance"],
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Hero Pose (On Block)", "durationSeconds": 120 },
+            { "name": "Eagle Cactus Arm Flow", "durationSeconds": 90 },
+            { "name": "Gate Fold Stretch", "durationSeconds": 45 },
+            { "name": "Gate Fold Stretch", "durationSeconds": 45 },
+            { "name": "Crescent Low Lunge Hamstring Stretch Flow", "durationSeconds": 45 },
+            { "name": "Crescent Low Lunge Hamstring Stretch Flow", "durationSeconds": 45 },
+            { "name": "Table Top (One-Legged Hip Rotation)", "durationSeconds": 45 },
+            { "name": "Table Top (One-Legged Hip Rotation)", "durationSeconds": 45 },
+            { "name": "Child's Pose", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Swishy Fold", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Krana",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 15 },
+            { "name": "Volcano Pose", "durationSeconds": 15 },
+            { "name": "Standing Forward Fold", "durationSeconds": 15 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 15 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Volcano Pose", "durationSeconds": 30 },
+            { "name": "Standing Forward Fold", "durationSeconds": 15 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 15 },
+            { "name": "Plank Pose", "durationSeconds": 15 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Low Lunge", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Intro to Warrior II",
+          "poses": [
+            { "name": "Five-Pointed Star", "durationSeconds": 60 },
+            { "name": "Warrior II", "durationSeconds": 60 },
+            { "name": "(Compare to Warrior I)", "durationSeconds": 60 },
+            { "name": "Five-Pointed Star", "durationSeconds": 30 },
+            { "name": "Warrior II", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Warrior II Flow (Right)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 15 },
+            { "name": "Runner's Lunge", "durationSeconds": 45 },
+            { "name": "Warrior I", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Extended Side Angle (Elbow Arm)", "durationSeconds": 45 },
+            { "name": "Reverse Warrior", "durationSeconds": 45 },
+            { "name": "Triangle", "durationSeconds": 60 },
+            { "name": "Reverse Triangle", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Half Moon", "durationSeconds": 45 },
+            { "name": "Sugarcane Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Warrior Flow (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 15 },
+            { "name": "Runner's Lunge", "durationSeconds": 45 },
+            { "name": "Warrior I", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Extended Side Angle (Elbow Arm)", "durationSeconds": 45 },
+            { "name": "Reverse Warrior", "durationSeconds": 45 },
+            { "name": "Triangle", "durationSeconds": 60 },
+            { "name": "Reverse Triangle", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Half Moon", "durationSeconds": 45 },
+            { "name": "Sugarcane Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Crow Things",
+          "poses": [
+            { "name": "Dangling Pose", "durationSeconds": 20 },
+            { "name": "Garland Pose", "durationSeconds": 60 },
+            { "name": "Forearm Plank", "durationSeconds": 30 },
+            { "name": "Child's Pose", "durationSeconds": 25 },
+            { "name": "Place Forearms and Knees", "durationSeconds": 30 },
+            { "name": "Baby Crow Pose", "durationSeconds": 180 },
+            { "name": "Crow Pose", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Stretch & Savasana",
+          "poses": [
+            { "name": "Wide Child's Pose", "durationSeconds": 60 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 30 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 30 },
+            { "name": "Thunderbolt Pose", "durationSeconds": 15 },
+            { "name": "Cat-Cow (Thunderbolt Legs)", "durationSeconds": 25 },
+            { "name": "Table Top Pose", "durationSeconds": 15 },
+            { "name": "Half Pigeon (Variation I)", "durationSeconds": 60 },
+            { "name": "Half Pigeon (Variation I)", "durationSeconds": 60 },
+            { "name": "Firelog Pose", "durationSeconds": 20 },
+            { "name": "Firelog Pose (Twist)", "durationSeconds": 30 },
+            { "name": "Switch Top Leg", "durationSeconds": 20 },
+            { "name": "Firelog Pose (Twist)", "durationSeconds": 30 },
+            { "name": "Firelog Pose (Forward Bend)", "durationSeconds": 20 },
+            { "name": "Seated Windshield Wiper Pose", "durationSeconds": 30 },
+            { "name": "Wind Release Pose", "durationSeconds": 15 },
+            { "name": "Corpse Pose", "durationSeconds": 300 }
+          ]
+        }
+      ]
+    }
+  ]
+}
