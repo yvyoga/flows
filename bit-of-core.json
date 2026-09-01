@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-em03z",
+      "name": "Bit of Core",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Balance"],
+      "sections": [
+        {
+          "name": "Warm-Up",
+          "poses": [
+            { "name": "Corpse Pose", "durationSeconds": 180 },
+            { "name": "Banana Pose", "durationSeconds": 30 },
+            { "name": "Banana Pose", "durationSeconds": 30 },
+            { "name": "Full Body Stretch", "durationSeconds": 20 },
+            { "name": "Reclined Arms Movement Flow", "durationSeconds": 30 },
+            { "name": "Reclined Arms Movement Flow", "durationSeconds": 30 },
+            { "name": "Supine Pelvic Tilt Tuck", "durationSeconds": 30 },
+            { "name": "Bridge Pose", "durationSeconds": 30 },
+            { "name": "Supine Pelvic Tilt Tuck", "durationSeconds": 30 },
+            { "name": "Bridge Pose", "durationSeconds": 30 },
+            { "name": "Pilates Roll Up Flow", "durationSeconds": 20 },
+            { "name": "Seated Forward Bend", "durationSeconds": 20 },
+            { "name": "Table Top", "durationSeconds": 20 },
+            { "name": "Cat-Cow", "durationSeconds": 45 },
+            { "name": "Thread the Needle Flow", "durationSeconds": 25 },
+            { "name": "Thread the Needle Flow", "durationSeconds": 25 },
+            { "name": "Balancing Table (Knee to Nose Flow)", "durationSeconds": 30 },
+            { "name": "Balancing Table (Knee to Nose Flow)", "durationSeconds": 30 },
+            { "name": "Wide Child's Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Mat Core",
+          "poses": [
+            { "name": "Side Plank (Both Legs Raised)", "durationSeconds": 45 },
+            { "name": "Boat Pose", "durationSeconds": 30 },
+            { "name": "Revolved Boat Pose", "durationSeconds": 30 },
+            { "name": "Revolved Boat Pose", "durationSeconds": 30 },
+            { "name": "Side Plank (Both Legs Raised)", "durationSeconds": 45 },
+            { "name": "Table Top", "durationSeconds": 20 },
+            { "name": "Forearm Plank", "durationSeconds": 30 },
+            { "name": "Forearm Plank (Knee to Elbow)", "durationSeconds": 30 },
+            { "name": "Forearm Plank (Knee to Elbow)", "durationSeconds": 30 },
+            { "name": "Locust Pose (Elbows)", "durationSeconds": 15 },
+            { "name": "Locust Pose", "durationSeconds": 20 },
+            { "name": "Crocodile Pose", "durationSeconds": 10 },
+            { "name": "Locust Pose (Elbows)", "durationSeconds": 15 },
+            { "name": "Locust Pose", "durationSeconds": 20 },
+            { "name": "Crocodile Pose", "durationSeconds": 10 },
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 13 },
+            { "name": "Forward Fold Feet Outwards", "durationSeconds": 30 },
+            { "name": "Mountain Pose", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Sun Salutations",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Low Lunge", "durationSeconds": 20 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Eight Limbed Pose", "durationSeconds": 15 },
+            { "name": "Cobra Pose", "durationSeconds": 20 },
+            { "name": "Downward Dog", "durationSeconds": 20 },
+            { "name": "Low Lunge", "durationSeconds": 20 },
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Volcano Pose", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Balancing (Right)",
+          "poses": [
+            { "name": "One-Legged Mountain (Hands on Hips)", "durationSeconds": 10 },
+            { "name": "Standing Wind Release (Eagle Arms)", "durationSeconds": 20 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 45 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 15 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 25 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 15 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 25 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 40 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 13 },
+            { "name": "Chair Pose", "durationSeconds": 15 },
+            { "name": "Forward Fold Feet Outwards", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Balancing (Left)",
+          "poses": [
+            { "name": "Mountain Pose", "durationSeconds": 15 },
+            { "name": "One-Legged Mountain (Hands on Hips)", "durationSeconds": 10 },
+            { "name": "Standing Wind Release (Eagle Arms)", "durationSeconds": 20 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 45 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 15 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 25 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 15 },
+            { "name": "Warrior III (Eagle Arms)", "durationSeconds": 25 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 45 },
+            { "name": "Revolved Chair (Easy Stretch)", "durationSeconds": 13 },
+            { "name": "Chair Pose", "durationSeconds": 15 },
+            { "name": "Forward Fold Feet Outwards", "durationSeconds": 20 },
+            { "name": "One-Legged Mountain (Side Bend)", "durationSeconds": 20 },
+            { "name": "One-Legged Mountain (Side Bend)", "durationSeconds": 20 },
+            { "name": "Forward Fold Feet Outwards", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Goddesses",
+          "poses": [
+            { "name": "Goddess Pose (Namaste)", "durationSeconds": 45 },
+            { "name": "Five-Pointed Star to Goddess Flow", "durationSeconds": 30 },
+            { "name": "Add Side Crunches", "durationSeconds": 60 },
+            { "name": "Five-Pointed Star (Arms Up)", "durationSeconds": 10 },
+            { "name": "Revolved Goddess", "durationSeconds": 60 },
+            { "name": "Wide-Legged Forward Fold", "durationSeconds": 25 }
+          ]
+        },
+        {
+          "name": "Yin & Cool Down",
+          "poses": [
+            { "name": "Half Pigeon Pose", "durationSeconds": 120 },
+            { "name": "Half Pigeon Pose", "durationSeconds": 120 },
+            { "name": "Shoulder Stretch Pose", "durationSeconds": 120 },
+            { "name": "Shoulder Stretch Pose", "durationSeconds": 120 },
+            { "name": "Thread the Needle", "durationSeconds": 120 },
+            { "name": "Thread the Needle", "durationSeconds": 120 },
+            { "name": "Child's Pose", "durationSeconds": 30 },
+            { "name": "Supine Spinal Twist II", "durationSeconds": 120 },
+            { "name": "Supine Spinal Twist II", "durationSeconds": 120 },
+            { "name": "Wind Release Pose", "durationSeconds": 20 },
+            { "name": "Full Body Stretch", "durationSeconds": 10 },
+            { "name": "Corpse Pose", "durationSeconds": 300 }
+          ]
+        }
+      ]
+    }
+  ]
+}
