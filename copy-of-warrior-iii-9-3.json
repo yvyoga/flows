@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-bkj2r",
+      "name": "Copy of Warrior III 9/3",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Balance"],
+      "sections": [
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Chin to lt armpit", "durationSeconds": 15 },
+            { "name": "Chin to rt armpit", "durationSeconds": 15 },
+            { "name": "Face Stretch Close Up", "durationSeconds": 15 },
+            { "name": "Chin To Chest Variation (Interlaced Hands Behind Head)", "durationSeconds": 15 },
+            { "name": "Sage Marichi Pose C", "durationSeconds": 60 },
+            { "name": "Sage Marichi Pose C", "durationSeconds": 60 },
+            { "name": "Crocodile Pose", "durationSeconds": 30 },
+            { "name": "One Legged Bow Pose Prep (Knees on Floor)", "durationSeconds": 45 },
+            { "name": "One Legged Bow Pose Prep (Knees on Floor)", "durationSeconds": 45 },
+            { "name": "Cat Cow Pose", "durationSeconds": 60 },
+            { "name": "Downward Dog", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Karana",
+          "poses": [
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Knee on Floor)", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 30 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Warrior I", "durationSeconds": 30 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Knee on Floor)", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 30 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Standing Forward Fold", "durationSeconds": 30 },
+            { "name": "Mountain Pose (Raised Hands)", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Warrior Prep Rt",
+          "poses": [
+            { "name": "Tree Pose", "durationSeconds": 40 },
+            { "name": "Standing Wind Release Pose", "durationSeconds": 40 },
+            { "name": "Flamingo Pose", "durationSeconds": 40 },
+            { "name": "Volcano Lunge Flow", "durationSeconds": 180 },
+            { "name": "Standing Forward Fold", "durationSeconds": 30 },
+            { "name": "Mountain Pose", "durationSeconds": 20 },
+            { "name": "High Lunge", "durationSeconds": 45 },
+            { "name": "Warrior III (Blocks)", "durationSeconds": 30 },
+            { "name": "Warrior III (One Hand Extended)", "durationSeconds": 20 },
+            { "name": "Warrior III", "durationSeconds": 20 },
+            { "name": "Standing Forward Fold", "durationSeconds": 25 },
+            { "name": "Mountain Pose (Raised Hands)", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Warrior Prep Lt",
+          "poses": [
+            { "name": "Tree Pose", "durationSeconds": 40 },
+            { "name": "Standing Wind Release Pose", "durationSeconds": 40 },
+            { "name": "Flamingo Pose", "durationSeconds": 40 },
+            { "name": "Volcano Lunge Flow", "durationSeconds": 180 },
+            { "name": "Standing Forward Fold", "durationSeconds": 30 },
+            { "name": "Mountain Pose", "durationSeconds": 20 },
+            { "name": "High Lunge", "durationSeconds": 45 },
+            { "name": "Warrior III (Blocks)", "durationSeconds": 30 },
+            { "name": "Warrior III (One Hand Extended)", "durationSeconds": 20 },
+            { "name": "Warrior III", "durationSeconds": 20 },
+            { "name": "Standing Backbend Pose", "durationSeconds": 20 },
+            { "name": "Standing Yoga Seal Pose", "durationSeconds": 25 }
+          ]
+        },
+        {
+          "name": "Warrior III Series",
+          "poses": [
+            { "name": "Runner's Lunge", "durationSeconds": 30 },
+            { "name": "High Lunge", "durationSeconds": 30 },
+            { "name": "Warrior III", "durationSeconds": 30 },
+            { "name": "Half Moon Pose", "durationSeconds": 45 },
+            { "name": "Standing Split Pose", "durationSeconds": 30 },
+            { "name": "Standing Forward Fold", "durationSeconds": 25 }
+          ]
+        },
+        {
+          "name": "Side Crow",
+          "poses": [
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Revolved Chair Pose", "durationSeconds": 30 },
+            { "name": "Twisted Toestand Squat", "durationSeconds": 30 },
+            { "name": "Side Crow Pose Prep", "durationSeconds": 120 },
+            { "name": "Side Crow Pose", "durationSeconds": 120 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Revolved Chair Pose", "durationSeconds": 30 },
+            { "name": "Twisted Toestand Squat", "durationSeconds": 30 },
+            { "name": "Side Crow Pose Prep", "durationSeconds": 120 },
+            { "name": "Side Crow Pose", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Stretch and Savasana",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 30 },
+            { "name": "Wide Child's Pose", "durationSeconds": 60 },
+            { "name": "Wind Release (Exhale/Inhale Flow)", "durationSeconds": 45 },
+            { "name": "Supine Windshield Wiper (Variation)", "durationSeconds": 45 },
+            { "name": "Reclined Cow Face Pose", "durationSeconds": 60 },
+            { "name": "Reclining Eagle Spinal Twist", "durationSeconds": 60 },
+            { "name": "Reclined Cow Face Pose", "durationSeconds": 60 },
+            { "name": "Reclining Eagle Spinal Twist", "durationSeconds": 60 },
+            { "name": "Corpse Pose", "durationSeconds": 300 }
+          ]
+        }
+      ]
+    }
+  ]
+}
