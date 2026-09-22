@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-qpydv",
+      "name": "Wed 75 min piyo",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Core"],
+      "sections": [
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Hero Pose On Block", "durationSeconds": 120 },
+            { "name": "Eagle Cactus Arm Flow", "durationSeconds": 60 },
+            { "name": "Gate Fold Stretch", "durationSeconds": 45 },
+            { "name": "Gate Fold Stretch", "durationSeconds": 45 },
+            { "name": "Crescent Low Lunge Hamstring Stretch Flow", "durationSeconds": 45 },
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Crescent Low Lunge Hamstring Stretch Flow", "durationSeconds": 45 },
+            { "name": "Table Top Pose (Knees Up)", "durationSeconds": 25 },
+            { "name": "Plank Pose", "durationSeconds": 25 },
+            { "name": "Bear to Plank Flow", "durationSeconds": 60 },
+            { "name": "Wide Child's Pose", "durationSeconds": 30 },
+            { "name": "Thunderbolt Pose (Bound, Raised Arms, Side Bend)", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Series 1 Rt",
+          "poses": [
+            { "name": "Forearm Plank Pose (Hip Twists)", "durationSeconds": 60 },
+            { "name": "Plank Pose (Knee to Nose, Elbows Flow)", "durationSeconds": 60 },
+            { "name": "Wide Child's Pose", "durationSeconds": 35 },
+            { "name": "Forearm Side Plank (Crunch Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank Pose (Leg Flow)", "durationSeconds": 60 },
+            { "name": "Easy Side Reclining Pose (Legs Raised Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank (Both Legs Raised)", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Series 1 Lt",
+          "poses": [
+            { "name": "Plank Pose (Knee to Nose, Elbows Flow)", "durationSeconds": 60 },
+            { "name": "Wide Child's Pose", "durationSeconds": 35 },
+            { "name": "Forearm Side Plank (Crunch Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank Pose (Leg Flow)", "durationSeconds": 60 },
+            { "name": "Easy Side Reclining Pose (Legs Raised Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank (Both Legs Raised)", "durationSeconds": 60 },
+            { "name": "Gentle Sit Up", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Yoga Flow",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Mountain Pose", "durationSeconds": 15 },
+            { "name": "Volcano Pose", "durationSeconds": 15 },
+            { "name": "Standing Forward Fold", "durationSeconds": 15 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 15 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Volcano Pose", "durationSeconds": 30 },
+            { "name": "Standing Forward Fold", "durationSeconds": 15 },
+            { "name": "Upward Forward Fold (Hands on Shins)", "durationSeconds": 15 },
+            { "name": "Plank Pose", "durationSeconds": 15 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Low Lunge", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "2nd Series",
+          "poses": [
+            { "name": "Constructive Rest Pose (Hands on Belly)", "durationSeconds": 60 },
+            { "name": "Supine Pelvic Tilt Tuck", "durationSeconds": 45 },
+            { "name": "Bridge Pose", "durationSeconds": 90 },
+            { "name": "Bridge Pose (Heels Variation)", "durationSeconds": 55 },
+            { "name": "Constructive Rest Pose (Hands Under Head)", "durationSeconds": 10 },
+            { "name": "Gentle Sit Up", "durationSeconds": 90 },
+            { "name": "Bicycle Pose", "durationSeconds": 50 },
+            { "name": "Bicycle Pose (Criss Cross Legs Flow)", "durationSeconds": 40 },
+            { "name": "Bicycle Pose", "durationSeconds": 25 },
+            { "name": "Bicycle Pose (Criss Cross Legs Flow)", "durationSeconds": 25 },
+            { "name": "Bicycle Pose", "durationSeconds": 20 },
+            { "name": "Bicycle Pose (Criss Cross Legs Flow)", "durationSeconds": 20 },
+            { "name": "Bicycle Pose", "durationSeconds": 15 },
+            { "name": "Bicycle Pose (Criss Cross Legs Flow)", "durationSeconds": 15 },
+            { "name": "Bicycle Pose (Criss Cross Legs Flow)", "durationSeconds": 40 },
+            { "name": "Wind Release Pose", "durationSeconds": 30 },
+            { "name": "Belly Twist Flow", "durationSeconds": 45 },
+            { "name": "Reclined Eagle Crunches", "durationSeconds": 90 },
+            { "name": "Wind Release Pose", "durationSeconds": 15 },
+            { "name": "Reclined Mountain Pose", "durationSeconds": 10 },
+            { "name": "Pilates Roll Up Flow", "durationSeconds": 20 },
+            { "name": "Seated Straddle (Forward Bend Flow)", "durationSeconds": 15 },
+            { "name": "Staff Pose", "durationSeconds": 10 },
+            { "name": "Staff Pose (Hands Back, Knees Bent Variation)", "durationSeconds": 45 },
+            { "name": "Staff Pose (Hands Back, Knees Bent)", "durationSeconds": 30 },
+            { "name": "Reverse Table Top Pose", "durationSeconds": 30 },
+            { "name": "Seated Straddle (Forward Bend Flow)", "durationSeconds": 60 },
+            { "name": "Staff Pose (Hands Back, Knees Bent Variation)", "durationSeconds": 45 },
+            { "name": "Staff Pose (Hands Back, Knees Bent Variation)", "durationSeconds": 30 },
+            { "name": "Reverse Table Top Pose", "durationSeconds": 30 },
+            { "name": "Staff Pose", "durationSeconds": 30 },
+            { "name": "Revolved Seated Straddle (Forward Bend Flow)", "durationSeconds": 60 },
+            { "name": "Easy Boat Pose (Forearms)", "durationSeconds": 20 },
+            { "name": "Supine Forearm Scissors Flow", "durationSeconds": 60 },
+            { "name": "Boat Pose (On Forearms)", "durationSeconds": 25 },
+            { "name": "Boat Pose (Variation 1)", "durationSeconds": 30 },
+            { "name": "Table Top Pose", "durationSeconds": 20 },
+            { "name": "Plank Pose (Knee to Ground Variation)", "durationSeconds": 60 },
+            { "name": "Table Top Pose", "durationSeconds": 15 },
+            { "name": "Table Top Pose (Lateral Leg Lift Flow)", "durationSeconds": 75 },
+            { "name": "Donkey Kick Pose", "durationSeconds": 75 },
+            { "name": "Table Top Pose", "durationSeconds": 15 },
+            { "name": "Plank Pose (Knee to Ground Variation)", "durationSeconds": 60 },
+            { "name": "Repeat Other Side", "durationSeconds": 5 },
+            { "name": "Table Top Pose", "durationSeconds": 10 },
+            { "name": "Table Top Pose (Lateral Leg Lift Flow)", "durationSeconds": 75 },
+            { "name": "Donkey Kick Pose", "durationSeconds": 75 },
+            { "name": "Plank Pose (Knee to Ground Variation)", "durationSeconds": 60 },
+            { "name": "Crocodile Pose", "durationSeconds": 15 },
+            { "name": "Locust Pose (Legs on Floor)", "durationSeconds": 45 },
+            { "name": "Sphinx Pose", "durationSeconds": 30 },
+            { "name": "Wide Child's Pose", "durationSeconds": 30 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 60 },
+            { "name": "Cat-Cow (Thunderbolt Legs)", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Stretch and Savasana",
+          "poses": [
+            { "name": "Wide Child's Pose", "durationSeconds": 60 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 30 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 30 },
+            { "name": "Thunderbolt Pose", "durationSeconds": 15 },
+            { "name": "Cat-Cow (Thunderbolt Legs)", "durationSeconds": 25 },
+            { "name": "Firelog Pose", "durationSeconds": 20 },
+            { "name": "Firelog Pose (Twist)", "durationSeconds": 30 },
+            { "name": "Switch Top Leg", "durationSeconds": 13 },
+            { "name": "Firelog Pose (Twist)", "durationSeconds": 30 },
+            { "name": "Firelog Pose (Variation, Forward Bend)", "durationSeconds": 20 },
+            { "name": "Seated Windshield Wiper Pose", "durationSeconds": 30 },
+            { "name": "Wind Release Pose", "durationSeconds": 15 },
+            { "name": "Corpse Pose", "durationSeconds": 300 }
+          ]
+        }
+      ]
+    }
+  ]
+}
