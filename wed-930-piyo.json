@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-vg8cn",
+      "name": "Wed 930 Piyo",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Core"],
+      "sections": [
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Thunderbolt Pose", "durationSeconds": 180 },
+            { "name": "Toe Squat", "durationSeconds": 60 },
+            { "name": "Thunderbolt Pose (On Toes, Side Stretch)", "durationSeconds": 20 },
+            { "name": "Thunderbolt Pose (On Toes, Side Stretch)", "durationSeconds": 20 },
+            { "name": "Overhead Shoulder Stretch", "durationSeconds": 25 },
+            { "name": "Overhead Shoulder Stretch", "durationSeconds": 25 },
+            { "name": "Shoulder Rotation (External/Internal)", "durationSeconds": 60 },
+            { "name": "Shoulders Lift and Drop", "durationSeconds": 45 },
+            { "name": "Table Top Pose", "durationSeconds": 45 },
+            { "name": "Cat-Cow Pose", "durationSeconds": 60 },
+            { "name": "Table Rainbows", "durationSeconds": 45 },
+            { "name": "Table Top Pose (Leg Raised)", "durationSeconds": 30 },
+            { "name": "Revolved Table Top Pose (Leg to Side)", "durationSeconds": 30 },
+            { "name": "Half Moon Variation (Knee on Floor)", "durationSeconds": 30 },
+            { "name": "Gate Pose Prep", "durationSeconds": 15 },
+            { "name": "Gate Pose (Toes Stretched)", "durationSeconds": 30 },
+            { "name": "Table Top Pose", "durationSeconds": 20 },
+            { "name": "Table Rainbows", "durationSeconds": 45 },
+            { "name": "Table Top Pose (Leg Raised)", "durationSeconds": 30 },
+            { "name": "Revolved Table Top Pose (Leg to Side)", "durationSeconds": 30 },
+            { "name": "Half Moon Variation (Knee on Floor)", "durationSeconds": 30 },
+            { "name": "Gate Pose Prep", "durationSeconds": 15 },
+            { "name": "Gate Pose (Toes Stretched)", "durationSeconds": 30 },
+            { "name": "Table Top Pose (Knees Up)", "durationSeconds": 25 },
+            { "name": "Plank Pose", "durationSeconds": 25 },
+            { "name": "Bear to Plank Flow", "durationSeconds": 60 },
+            { "name": "Wide Child's Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Series 1",
+          "poses": [
+            { "name": "Boat Pose (Variation 1)", "durationSeconds": 30 },
+            { "name": "Easy Boat Pose (Toe Taps)", "durationSeconds": 60 },
+            { "name": "Revolved Boat Pose (Knees Bent)", "durationSeconds": 45 },
+            { "name": "Boat Pose (Variation 1)", "durationSeconds": 30 },
+            { "name": "Supine Forearm Scissors Flow", "durationSeconds": 60 },
+            { "name": "Pilates 100 Pose", "durationSeconds": 60 },
+            { "name": "Half Boat Pose (Arms Forward, Wind Release Nose-to-Knee Flow)", "durationSeconds": 20 },
+            { "name": "Revolved Seated Straddle (Forward Bend Flow)", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Series 2 (Right)",
+          "poses": [
+            { "name": "Forearm Plank (Hip Twists)", "durationSeconds": 60 },
+            { "name": "Plank Pose (Knee to Nose, Elbows Flow)", "durationSeconds": 60 },
+            { "name": "Wide Child's Pose", "durationSeconds": 35 },
+            { "name": "Forearm Side Plank (Crunch Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank Pose (Leg Flow)", "durationSeconds": 60 },
+            { "name": "Easy Side Reclining Pose (Legs Raised Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank (Both Legs Raised)", "durationSeconds": 60 },
+            { "name": "Gentle Sit Up", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Series 2 (Left)",
+          "poses": [
+            { "name": "Forearm Plank (Hip Twists)", "durationSeconds": 60 },
+            { "name": "Plank Pose (Knee to Nose, Elbows Flow)", "durationSeconds": 60 },
+            { "name": "Wide Child's Pose", "durationSeconds": 35 },
+            { "name": "Forearm Side Plank (Crunch Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank Pose (Leg Flow)", "durationSeconds": 60 },
+            { "name": "Easy Side Reclining Pose (Legs Raised Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank (Both Legs Raised)", "durationSeconds": 60 },
+            { "name": "Gentle Sit Up", "durationSeconds": 60 },
+            { "name": "Standing Roll Down", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Yoga Flow (Right)",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 40 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 30 },
+            { "name": "Low Lunge (Hands to Knee)", "durationSeconds": 30 },
+            { "name": "Bound Crescent Low Lunge", "durationSeconds": 45 },
+            { "name": "Runner's Lunge", "durationSeconds": 20 },
+            { "name": "High Lunge", "durationSeconds": 35 },
+            { "name": "Warrior III", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Extended Triangle (Block)", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 25 },
+            { "name": "Half Moon Pose (Block Mudra)", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Yoga Flow (Left)",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 40 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 30 },
+            { "name": "Low Lunge (Hands to Knee)", "durationSeconds": 30 },
+            { "name": "Bound Crescent Low Lunge", "durationSeconds": 45 },
+            { "name": "Runner's Lunge", "durationSeconds": 20 },
+            { "name": "High Lunge", "durationSeconds": 35 },
+            { "name": "Warrior III", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 45 },
+            { "name": "Extended Triangle (Block)", "durationSeconds": 45 },
+            { "name": "Warrior II", "durationSeconds": 25 },
+            { "name": "Half Moon Pose (Block Mudra)", "durationSeconds": 45 },
+            { "name": "Crocodile Pose", "durationSeconds": 30 },
+            { "name": "Locust Pose (Legs on Floor)", "durationSeconds": 45 },
+            { "name": "Sphinx Pose", "durationSeconds": 45 },
+            { "name": "Wide Child's Pose", "durationSeconds": 30 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 45 },
+            { "name": "Child's Pose (Both Arms to Side)", "durationSeconds": 45 },
+            { "name": "Corpse Pose", "durationSeconds": 13 }
+          ]
+        }
+      ]
+    }
+  ]
+}
