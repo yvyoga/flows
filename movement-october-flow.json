@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-uswyn",
+      "name": "Movement October Flow",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Strength", "Balance"],
+      "sections": [
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Child's Pose", "durationSeconds": 180 },
+            { "name": "Cat-Cow Pose", "durationSeconds": 40 },
+            { "name": "Thread the Needle Flow", "durationSeconds": 25 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Dolphin Pose", "durationSeconds": 25 },
+            { "name": "Puppy Dog Pose", "durationSeconds": 30 },
+            { "name": "Sphinx Pose", "durationSeconds": 40 },
+            { "name": "Half Bow Pose", "durationSeconds": 40 },
+            { "name": "Half Bow Pose", "durationSeconds": 40 },
+            { "name": "Child's Pose", "durationSeconds": 20 },
+            { "name": "Plank Pose", "durationSeconds": 13 }
+          ]
+        },
+        {
+          "name": "Suns",
+          "poses": [
+            { "name": "Sun Salutation A", "durationSeconds": 270 }
+          ]
+        },
+        {
+          "name": "Series 1 (Right)",
+          "poses": [
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 20 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Half Splits Pose", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Revolved Lunge Pose", "durationSeconds": 30 },
+            { "name": "Nectar of the Moon Pose II", "durationSeconds": 30 },
+            { "name": "Side Plank Pose", "durationSeconds": 30 },
+            { "name": "Wild Thing Pose", "durationSeconds": 30 },
+            { "name": "Flow I", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Series 1 (Left)",
+          "poses": [
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 20 },
+            { "name": "Low Lunge", "durationSeconds": 30 },
+            { "name": "Half Splits Pose", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Revolved Lunge Pose", "durationSeconds": 30 },
+            { "name": "Nectar of the Moon Pose II", "durationSeconds": 30 },
+            { "name": "Side Plank Pose", "durationSeconds": 30 },
+            { "name": "Wild Thing Pose", "durationSeconds": 30 },
+            { "name": "Flow I", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "BTM Series 1 (Right)",
+          "poses": [
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 6 },
+            { "name": "Runner's Lunge", "durationSeconds": 6 },
+            { "name": "Crescent Low Lunge (Half Splits, Airplane Arms Flow)", "durationSeconds": 20 },
+            { "name": "Runner's Lunge", "durationSeconds": 6 },
+            { "name": "Revolved Lunge Pose", "durationSeconds": 6 },
+            { "name": "Nectar of the Moon Pose II", "durationSeconds": 6 },
+            { "name": "Side Plank Pose", "durationSeconds": 6 },
+            { "name": "Wild Thing Pose", "durationSeconds": 6 },
+            { "name": "Flow I", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "BTM Series 1 (Left)",
+          "poses": [
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 6 },
+            { "name": "Runner's Lunge", "durationSeconds": 6 },
+            { "name": "Crescent Low Lunge (Half Splits, Airplane Arms Flow)", "durationSeconds": 20 },
+            { "name": "Runner's Lunge", "durationSeconds": 6 },
+            { "name": "Revolved Lunge Pose", "durationSeconds": 6 },
+            { "name": "Nectar of the Moon Pose II", "durationSeconds": 6 },
+            { "name": "Side Plank Pose", "durationSeconds": 6 },
+            { "name": "Wild Thing Pose", "durationSeconds": 6 },
+            { "name": "Flow I", "durationSeconds": 15 }
+          ]
+        },
+        {
+          "name": "Series 2 (Right)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 25 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 25 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "High Lunge", "durationSeconds": 30 },
+            { "name": "Stork Bird Pose", "durationSeconds": 20 },
+            { "name": "Warrior III", "durationSeconds": 35 },
+            { "name": "Standing Wind Release Pose", "durationSeconds": 30 },
+            { "name": "Standing Quad Stretch Pose", "durationSeconds": 25 },
+            { "name": "Dancer Pose", "durationSeconds": 40 },
+            { "name": "Standing Forward Fold", "durationSeconds": 21 }
+          ]
+        },
+        {
+          "name": "Series 2 (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 25 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 25 },
+            { "name": "Runner's Lunge", "durationSeconds": 25 },
+            { "name": "High Lunge", "durationSeconds": 25 },
+            { "name": "Stork Bird Pose", "durationSeconds": 20 },
+            { "name": "Warrior III", "durationSeconds": 35 },
+            { "name": "Standing Wind Release Pose", "durationSeconds": 30 },
+            { "name": "Standing Quad Stretch Pose", "durationSeconds": 25 },
+            { "name": "Dancer Pose", "durationSeconds": 40 },
+            { "name": "Standing Forward Fold", "durationSeconds": 21 }
+          ]
+        },
+        {
+          "name": "BTM Series 2 (Right)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 6 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 6 },
+            { "name": "Runner's Lunge", "durationSeconds": 6 },
+            { "name": "High Lunge", "durationSeconds": 6 },
+            { "name": "Stork Bird Pose", "durationSeconds": 20 },
+            { "name": "Warrior III Tadasana Flow", "durationSeconds": 13 },
+            { "name": "Standing Wind Release Pose", "durationSeconds": 6 },
+            { "name": "Standing Quad Stretch Pose", "durationSeconds": 25 },
+            { "name": "Dancer Pose", "durationSeconds": 15 },
+            { "name": "Standing Forward Fold", "durationSeconds": 6 }
+          ]
+        },
+        {
+          "name": "BTM Series 2 (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 6 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 6 },
+            { "name": "Runner's Lunge", "durationSeconds": 6 },
+            { "name": "High Lunge", "durationSeconds": 6 },
+            { "name": "Stork Bird Pose", "durationSeconds": 20 },
+            { "name": "Warrior III Tadasana Flow", "durationSeconds": 13 },
+            { "name": "Standing Wind Release Pose", "durationSeconds": 6 },
+            { "name": "Standing Quad Stretch Pose", "durationSeconds": 25 },
+            { "name": "Dancer Pose", "durationSeconds": 15 },
+            { "name": "Standing Forward Fold", "durationSeconds": 6 }
+          ]
+        },
+        {
+          "name": "Series 3 (Right)",
+          "poses": [
+            { "name": "Crescent High Lunge (Prayer Hands)", "durationSeconds": 30 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Extended Side Angle (Both Arms Raised)", "durationSeconds": 30 },
+            { "name": "Reverse Warrior", "durationSeconds": 30 },
+            { "name": "Triangle Pose", "durationSeconds": 30 },
+            { "name": "Half Moon Pose", "durationSeconds": 30 },
+            { "name": "Sugarcane Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Series 3 (Left)",
+          "poses": [
+            { "name": "Crescent High Lunge (Prayer Hands)", "durationSeconds": 30 },
+            { "name": "Warrior II", "durationSeconds": 30 },
+            { "name": "Extended Side Angle (Both Arms Raised)", "durationSeconds": 30 },
+            { "name": "Reverse Warrior", "durationSeconds": 30 },
+            { "name": "Triangle Pose", "durationSeconds": 30 },
+            { "name": "Half Moon Pose", "durationSeconds": 30 },
+            { "name": "Sugarcane Pose", "durationSeconds": 30 },
+            { "name": "Garland Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "BTM Series 3 (Right)",
+          "poses": [
+            { "name": "Crescent High Lunge (Prayer Hands)", "durationSeconds": 6 },
+            { "name": "Warrior II", "durationSeconds": 6 },
+            { "name": "Extended Side Angle (Both Arms Raised)", "durationSeconds": 6 },
+            { "name": "Reverse Warrior", "durationSeconds": 6 },
+            { "name": "Triangle Pose", "durationSeconds": 6 },
+            { "name": "Half Moon Pose", "durationSeconds": 15 },
+            { "name": "Sugarcane Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "BTM Series 3 (Left)",
+          "poses": [
+            { "name": "Crescent High Lunge (Prayer Hands)", "durationSeconds": 6 },
+            { "name": "Warrior II", "durationSeconds": 6 },
+            { "name": "Extended Side Angle (Both Arms Raised)", "durationSeconds": 6 },
+            { "name": "Reverse Warrior", "durationSeconds": 6 },
+            { "name": "Triangle Pose", "durationSeconds": 6 },
+            { "name": "Half Moon Pose", "durationSeconds": 15 },
+            { "name": "Sugarcane Pose", "durationSeconds": 30 }
+          ]
+        },
+        {
+          "name": "Stretch and Savasana",
+          "poses": [
+            { "name": "Staff Pose", "durationSeconds": 25 },
+            { "name": "Seated Forward Bend Pose", "durationSeconds": 25 },
+            { "name": "Half Lord of the Fishes (Hand Up Leg)", "durationSeconds": 30 },
+            { "name": "Half Lord of the Fishes (Hand Up Leg)", "durationSeconds": 30 },
+            { "name": "Constructive Rest Pose", "durationSeconds": 25 },
+            { "name": "Corpse Pose", "durationSeconds": 480 }
+          ]
+        }
+      ]
+    }
+  ]
+}
