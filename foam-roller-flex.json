@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-dt1tf",
+      "name": "Foam Roller Flex",
+      "type": "Mobility",
+      "isFavorite": false,
+      "tags": ["Strength", "Core"],
+      "sections": [
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Warm Up Stretches", "durationSeconds": 300 },
+            { "name": "Supine Thoracic Roller", "durationSeconds": 180 },
+            { "name": "Thoracic Lay Overs", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Series 1 (Round 1)",
+          "poses": [
+            { "name": "Plank on Foam Roller", "durationSeconds": 60 },
+            { "name": "Plank to Downward Dog (Feet on Roller)", "durationSeconds": 60 },
+            { "name": "Table Top (Knees to Chest, Feet on Roller)", "durationSeconds": 60 },
+            { "name": "Forearm Side Plank (Leg Bends, Ankles on Roller)", "durationSeconds": 60 },
+            { "name": "Forearm Side Plank (Leg Bends, Ankles on Roller)", "durationSeconds": 60 },
+            { "name": "Forearm Plank on Foam Roller", "durationSeconds": 60 },
+            { "name": "Plank (Knee Bend Forward, Legs on Roller)", "durationSeconds": 60 },
+            { "name": "Plank (Knee Bend Forward, Legs on Roller)", "durationSeconds": 60 },
+            { "name": "Side Plank (Hip Abduction Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank (Hip Abduction Flow)", "durationSeconds": 60 },
+            { "name": "Roll Out Wrists and Shoulders", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Series 1 (Round 2)",
+          "poses": [
+            { "name": "Plank on Foam Roller", "durationSeconds": 60 },
+            { "name": "Plank to Downward Dog (Feet on Roller)", "durationSeconds": 60 },
+            { "name": "Table Top (Knees to Chest, Feet on Roller)", "durationSeconds": 60 },
+            { "name": "Forearm Side Plank (Leg Bends, Ankles on Roller)", "durationSeconds": 60 },
+            { "name": "Forearm Side Plank (Leg Bends, Ankles on Roller)", "durationSeconds": 60 },
+            { "name": "Forearm Plank on Foam Roller", "durationSeconds": 60 },
+            { "name": "Plank (Knee Bend Forward, Legs on Roller)", "durationSeconds": 60 },
+            { "name": "Plank (Knee Bend Forward, Legs on Roller)", "durationSeconds": 60 },
+            { "name": "Side Plank (Hip Abduction Flow)", "durationSeconds": 60 },
+            { "name": "Side Plank (Hip Abduction Flow)", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Series 2",
+          "poses": [
+            { "name": "Bridge Pose (Feet on Roller)", "durationSeconds": 90 },
+            { "name": "Supine Hip Twist (Tailbone on Roller)", "durationSeconds": 90 },
+            { "name": "Single-Leg Bridge with Deadbug (Roller)", "durationSeconds": 30 },
+            { "name": "Chest Lifts (Feet on Foam Roller)", "durationSeconds": 60 },
+            { "name": "Half Bicycle (Right)", "durationSeconds": 45 },
+            { "name": "Half Bicycle (Left)", "durationSeconds": 45 },
+            { "name": "Hundreds (Roller Under Ankles)", "durationSeconds": 120 },
+            { "name": "Supine Leg Circles (Sacrum on Roller)", "durationSeconds": 30 },
+            { "name": "Switch Direction", "durationSeconds": 30 },
+            { "name": "Forearm Scissors (Tailbone on Roller)", "durationSeconds": 60 },
+            { "name": "Supine Frog (Roller)", "durationSeconds": 90 },
+            { "name": "Half Wind Release Pose", "durationSeconds": 30 },
+            { "name": "Knee Out to Side", "durationSeconds": 30 },
+            { "name": "Half Wind Release Pose", "durationSeconds": 30 },
+            { "name": "Knee Out to Side", "durationSeconds": 30 },
+            { "name": "Pilates Roll Up Flow", "durationSeconds": 90 },
+            { "name": "Seated Forward Bend Pose", "durationSeconds": 60 }
+          ]
+        },
+        {
+          "name": "Right",
+          "poses": [
+            { "name": "Side Sit-Up (Spine Corrector)", "durationSeconds": 60 },
+            { "name": "Fold Forward and Stretch Back Over Foam Roller", "durationSeconds": 60 },
+            { "name": "Leg Swings (Forward and Back)", "durationSeconds": 45 }
+          ]
+        },
+        {
+          "name": "Left",
+          "poses": [
+            { "name": "Side Sit-Up (Spine Corrector)", "durationSeconds": 60 },
+            { "name": "Fold Forward and Stretch Back Over Foam Roller", "durationSeconds": 60 },
+            { "name": "Leg Swings (Forward and Back)", "durationSeconds": 45 },
+            { "name": "Cool Down Stretches", "durationSeconds": 300 },
+            { "name": "Grounding", "durationSeconds": 120 }
+          ]
+        }
+      ]
+    }
+  ]
+}
