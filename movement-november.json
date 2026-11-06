@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-6ayhc",
+      "name": "Movement November",
+      "type": "Vinyasa",
+      "isFavorite": false,
+      "tags": ["Heart Openers", "Strength"],
+      "sections": [
+        {
+          "name": "Centering",
+          "poses": [
+            { "name": "Supported Fish Pose (Bolsters and Block)", "durationSeconds": 300 }
+          ]
+        },
+        {
+          "name": "Warm Up",
+          "poses": [
+            { "name": "Easy Pose (Cactus Arms)", "durationSeconds": 20 },
+            { "name": "Revolved Easy Pose", "durationSeconds": 10 },
+            { "name": "Revolved Easy Pose", "durationSeconds": 10 },
+            { "name": "Cat-Cow Pose", "durationSeconds": 45 },
+            { "name": "Half Camel Pose", "durationSeconds": 20 },
+            { "name": "Half Camel Pose", "durationSeconds": 20 },
+            { "name": "Child's Pose", "durationSeconds": 13 },
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Mountain Pose", "durationSeconds": 13 },
+            { "name": "Sun Salutation", "durationSeconds": 13 },
+            { "name": "Backbend (Prayer Hands, Close Up)", "durationSeconds": 30 },
+            { "name": "Standing Forward Fold", "durationSeconds": 30 },
+            { "name": "Revolved Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Revolved Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Eight-Limbed Pose", "durationSeconds": 20 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Downward Dog", "durationSeconds": 45 },
+            { "name": "Repeat x3", "durationSeconds": 120 }
+          ]
+        },
+        {
+          "name": "Series 1 (Right)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Low Lunge Pose", "durationSeconds": 30 },
+            { "name": "Half Splits Pose", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Knee on Floor)", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 30 },
+            { "name": "Eight-Limbed Pose", "durationSeconds": 15 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Puppy Dog Pose", "durationSeconds": 30 },
+            { "name": "Gate Pose Prep", "durationSeconds": 15 },
+            { "name": "Benu Bird Pose", "durationSeconds": 30 },
+            { "name": "Half Camel Pose (One Leg Extended)", "durationSeconds": 30 },
+            { "name": "Wide Child's Pose", "durationSeconds": 15 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 1 (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 30 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 30 },
+            { "name": "Runner's Lunge", "durationSeconds": 15 },
+            { "name": "Low Lunge Pose", "durationSeconds": 30 },
+            { "name": "Half Splits Pose", "durationSeconds": 30 },
+            { "name": "Revolved Low Lunge (Knee on Floor)", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 30 },
+            { "name": "Eight-Limbed Pose", "durationSeconds": 15 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Puppy Dog Pose", "durationSeconds": 30 },
+            { "name": "Gate Pose Prep", "durationSeconds": 15 },
+            { "name": "Benu Bird Pose", "durationSeconds": 30 },
+            { "name": "Half Camel Pose (One Leg Extended)", "durationSeconds": 30 },
+            { "name": "Wide Child's Pose", "durationSeconds": 15 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 1 Flow (Right)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 10 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 10 },
+            { "name": "Runner's Lunge", "durationSeconds": 10 },
+            { "name": "Low Lunge Pose", "durationSeconds": 10 },
+            { "name": "Half Splits Pose", "durationSeconds": 10 },
+            { "name": "Revolved Low Lunge (Knee on Floor)", "durationSeconds": 10 },
+            { "name": "Plank Pose", "durationSeconds": 10 },
+            { "name": "Eight-Limbed Pose", "durationSeconds": 10 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Puppy Dog Pose", "durationSeconds": 10 },
+            { "name": "Gate Pose Prep", "durationSeconds": 10 },
+            { "name": "Benu Bird Pose", "durationSeconds": 10 },
+            { "name": "Half Camel Pose (One Leg Extended)", "durationSeconds": 10 },
+            { "name": "Wide Child's Pose", "durationSeconds": 10 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 1 Flow (Left)",
+          "poses": [
+            { "name": "Downward Dog", "durationSeconds": 10 },
+            { "name": "Three-Legged Downward Dog", "durationSeconds": 10 },
+            { "name": "Runner's Lunge", "durationSeconds": 10 },
+            { "name": "Low Lunge Pose", "durationSeconds": 10 },
+            { "name": "Half Splits Pose", "durationSeconds": 10 },
+            { "name": "Revolved Low Lunge (Knee on Floor)", "durationSeconds": 10 },
+            { "name": "Plank Pose", "durationSeconds": 10 },
+            { "name": "Eight-Limbed Pose", "durationSeconds": 10 },
+            { "name": "Cobra Pose", "durationSeconds": 30 },
+            { "name": "Puppy Dog Pose", "durationSeconds": 10 },
+            { "name": "Gate Pose Prep", "durationSeconds": 10 },
+            { "name": "Benu Bird Pose", "durationSeconds": 10 },
+            { "name": "Half Camel Pose (One Leg Extended)", "durationSeconds": 10 },
+            { "name": "Wide Child's Pose", "durationSeconds": 10 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 2 (Right)",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Extended Mountain Pose (Backbend)", "durationSeconds": 20 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Revolved Chair Pose", "durationSeconds": 15 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 20 },
+            { "name": "Revolved Side Angle (Hands on Floor)", "durationSeconds": 30 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 15 },
+            { "name": "Chair Pose", "durationSeconds": 20 },
+            { "name": "Eagle Pose", "durationSeconds": 30 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 15 },
+            { "name": "Baby Grasshopper Pose", "durationSeconds": 30 },
+            { "name": "Easy Side Reclining Pose (Foot in Front)", "durationSeconds": 15 },
+            { "name": "Side Plank Twist", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 2 (Left)",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 20 },
+            { "name": "Extended Mountain Pose (Backbend)", "durationSeconds": 20 },
+            { "name": "Chair Pose", "durationSeconds": 30 },
+            { "name": "Revolved Chair Pose", "durationSeconds": 15 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 20 },
+            { "name": "Revolved Side Angle (Hands on Floor)", "durationSeconds": 30 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 15 },
+            { "name": "Chair Pose", "durationSeconds": 20 },
+            { "name": "Eagle Pose", "durationSeconds": 30 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 15 },
+            { "name": "Baby Grasshopper Pose", "durationSeconds": 30 },
+            { "name": "Easy Side Reclining Pose (Foot in Front)", "durationSeconds": 15 },
+            { "name": "Side Plank Twist", "durationSeconds": 30 },
+            { "name": "Plank Pose", "durationSeconds": 20 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 2 Flow (Right)",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 10 },
+            { "name": "Extended Mountain Pose (Backbend)", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 10 },
+            { "name": "Revolved Chair Pose", "durationSeconds": 10 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 10 },
+            { "name": "Revolved Side Angle (Hands on Floor)", "durationSeconds": 10 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 10 },
+            { "name": "Eagle Pose", "durationSeconds": 10 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 10 },
+            { "name": "Plank Pose", "durationSeconds": 10 },
+            { "name": "Vinyasa", "durationSeconds": 28 }
+          ]
+        },
+        {
+          "name": "Series 2 Flow (Left)",
+          "poses": [
+            { "name": "Standing Forward Fold", "durationSeconds": 10 },
+            { "name": "Extended Mountain Pose (Backbend)", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 10 },
+            { "name": "Revolved Chair Pose", "durationSeconds": 10 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 10 },
+            { "name": "Revolved Side Angle (Hands on Floor)", "durationSeconds": 10 },
+            { "name": "Revolved Chair Pose (Variation)", "durationSeconds": 10 },
+            { "name": "Chair Pose", "durationSeconds": 10 },
+            { "name": "Eagle Pose", "durationSeconds": 10 },
+            { "name": "Shiva Squat (Prayer Hands)", "durationSeconds": 10 },
+            { "name": "Plank Pose", "durationSeconds": 10 }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "poses": [
+            { "name": "Puppy Dog Pose", "durationSeconds": 20 },
+            { "name": "Thunderbolt Pose", "durationSeconds": 15 },
+            { "name": "Cat-Cow (Thunderbolt Legs)", "durationSeconds": 30 },
+            { "name": "Rocket Cat Pose", "durationSeconds": 20 },
+            { "name": "Easy Pose", "durationSeconds": 15 },
+            { "name": "Criss-Cross Arms Cat-Cow", "durationSeconds": 45 },
+            { "name": "Constructive Rest Pose", "durationSeconds": 15 },
+            { "name": "Bridge Pose", "durationSeconds": 30 },
+            { "name": "Wheel Pose", "durationSeconds": 30 },
+            { "name": "Wind Release Pose (Nose to Knee)", "durationSeconds": 30 },
+            { "name": "Supine Spinal Twist", "durationSeconds": 25 },
+            { "name": "Supine Spinal Twist", "durationSeconds": 25 },
+            { "name": "Banana Pose", "durationSeconds": 20 },
+            { "name": "Banana Pose", "durationSeconds": 20 }
+          ]
+        },
+        {
+          "name": "Breathwork and Savasana",
+          "poses": [
+            { "name": "Moon Piercing Breath", "durationSeconds": 120 },
+            { "name": "Reclining Bound Angle Pose", "durationSeconds": 420 },
+            { "name": "Corpse Pose", "durationSeconds": 13 }
+          ]
+        }
+      ]
+    }
+  ]
+}
