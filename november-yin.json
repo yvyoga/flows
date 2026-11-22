@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "flows": [
+    {
+      "id": "tummee-o3nvh",
+      "name": "November Yin",
+      "type": "Yin",
+      "isFavorite": false,
+      "tags": ["Hip Openers", "Relaxation"],
+      "sections": [
+        {
+          "name": "Yin Sequence",
+          "poses": [
+            { "name": "Easy Pose", "durationSeconds": 180 },
+            { "name": "Wide Child's Pose", "durationSeconds": 180 },
+            { "name": "Puppy Dog Pose", "durationSeconds": 180 },
+            { "name": "Sphinx Pose", "durationSeconds": 180 },
+            { "name": "Resting Half Frog Pose (Hands Under Head)", "durationSeconds": 120 },
+            { "name": "Seal Pose", "durationSeconds": 180 },
+            { "name": "Resting Half Frog Pose (Hands Under Head)", "durationSeconds": 120 },
+            { "name": "Half Cow Face Pose (Variation)", "durationSeconds": 60 },
+            { "name": "Half Cow Face Arm (Right)", "durationSeconds": 120 },
+            { "name": "Eagle Arms", "durationSeconds": 120 },
+            { "name": "Sitting Swan Pose", "durationSeconds": 120 },
+            { "name": "Half Cow Face Pose (Variation)", "durationSeconds": 60 },
+            { "name": "Half Cow Face Arm (Left)", "durationSeconds": 120 },
+            { "name": "Eagle Arms", "durationSeconds": 120 },
+            { "name": "Sitting Swan Pose", "durationSeconds": 120 },
+            { "name": "Butterfly (Wrist Stretch Out)", "durationSeconds": 60 },
+            { "name": "Butterfly (Wrist Stretch Under)", "durationSeconds": 60 },
+            { "name": "Butterfly", "durationSeconds": 180 },
+            { "name": "Supine Spinal Twist", "durationSeconds": 120 },
+            { "name": "Reclined Knee Circles", "durationSeconds": 30 },
+            { "name": "Supine Spinal Twist", "durationSeconds": 120 },
+            { "name": "Reclined Knee Circles", "durationSeconds": 30 },
+            { "name": "Easy Pose", "durationSeconds": 180 },
+            { "name": "Alternate Nostril Breathing", "durationSeconds": 180 },
+            { "name": "Corpse Pose", "durationSeconds": 420 }
+          ]
+        }
+      ]
+    }
+  ]
+}
